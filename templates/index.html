@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="fi">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Verbitaivutus</title>
+    <style>
+        /* General page styling */
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 50px auto;
+            padding: 20px 30px;
+            background-color: #fff;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+        }
+
+        h1 {
+            text-align: center;
+            color: #222;
+            margin-bottom: 30px;
+        }
+
+        form {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+
+        input[type="text"] {
+            padding: 12px 16px;
+            border: 1px solid #d1d1d6;
+            border-radius: 12px;
+            font-size: 16px;
+            flex: 1 1 auto;
+            max-width: 350px;
+            transition: border-color 0.2s, box-shadow 0.2s;
+        }
+
+        input[type="text"]:focus {
+            outline: none;
+            border-color: #4CAF50;
+            box-shadow: 0 0 0 2px rgba(76, 175, 80, 0.2);
+        }
+
+        button {
+            padding: 12px 20px;
+            border: none;
+            border-radius: 12px;
+            background-color: #4CAF50;
+            color: white;
+            font-size: 16px;
+            cursor: pointer;
+            transition: background-color 0.2s;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+
+        p.error {
+            color: #d9534f;
+            text-align: center;
+            font-weight: bold;
+        }
+
+        h3 {
+            margin-top: 30px;
+            color: #555;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 5px;
+            text-align: center;
+        }
+
+        /* Tense grid */
+        .tense-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 30px;
+        }
+
+        @media (min-width: 700px) {
+            .tense-grid {
+                grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            }
+        }
+
+        /* Each tense block aligns title and table together */
+        .tense-block {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        table {
+            width: 100%;
+            max-width: 280px;
+            border-collapse: collapse;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+        }
+
+        td {
+            padding: 10px 12px;
+        }
+
+        td:first-child {
+            font-weight: 500;
+            text-align: right;
+            /* pronouns right-aligned */
+            width: 100px;
+        }
+
+        td:last-child {
+            text-align: left;
+            /* forms left-aligned */
+            word-break: break-word;
+        }
+
+        tr:hover {
+            background-color: #f7f7f7;
+            /* subtle hover highlight */
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Verbitaivutus</h1>
+        <form method="POST">
+            <input type="text" name="verb" placeholder="Type verb here" value="{{.Verb}}">
+            <button type="submit">Taivuta</button>
+        </form>
+
+        {{if .Error}}
+        <p class="error">{{.Error}}</p>
+        {{end}}
+
+        {{if .Tenses}}
+        <div class="tense-grid">
+            {{range .Tenses}}
+            <div class="tense-block">
+                <h3>{{.Name}}</h3>
+                <table>
+                    <tbody>
+                        {{range .Rows}}
+                        <tr>
+                            <td>{{.Pronoun}}</td>
+                            <td>{{.Form}}</td>
+                        </tr>
+                        {{end}}
+                    </tbody>
+                </table>
+            </div>
+            {{end}}
+        </div>
+        {{end}}
+    </div>
+</body>
+
+</html>
