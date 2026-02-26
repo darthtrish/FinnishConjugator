@@ -1,0 +1,6972 @@
+{
+    "ajaa": {
+        "preesens": [
+            "ajan",
+            "ajat",
+            "ajaa",
+            "ajamme",
+            "ajatte",
+            "ajatte",
+            "ajavat",
+            "ajetaan"
+        ],
+        "preesens_neg": [
+            "en aja",
+            "et aja",
+            "ei aja",
+            "emme aja",
+            "ette aja",
+            "ette aja",
+            "eivät aja",
+            "ei ajeta"
+        ],
+        "imperfekti": [
+            "ajoin",
+            "ajoit",
+            "ajoi",
+            "ajoimme",
+            "ajoitte",
+            "ajoitte",
+            "ajoivat",
+            "ajettiin"
+        ],
+        "imperfekti_neg": [
+            "en ajanut",
+            "et ajanut",
+            "ei ajanut",
+            "emme ajaneet",
+            "ette ajaneet",
+            "ette ajanut",
+            "eivät ajaneet",
+            "ei ajettu"
+        ],
+        "perfekti": [
+            "olen ajanut",
+            "olet ajanut",
+            "on ajanut",
+            "olemme ajaneet",
+            "olette ajaneet",
+            "olette ajanut",
+            "ovat ajaneet",
+            "on ajettu"
+        ],
+        "perfekti_neg": [
+            "en ole ajanut",
+            "et ole ajanut",
+            "ei ole ajanut",
+            "emme ole ajaneet",
+            "ette ole ajaneet",
+            "ette ole ajanut",
+            "eivät ole ajaneet",
+            "ei ole ajettu"
+        ],
+        "pluskvamperfekti": [
+            "olin ajanut",
+            "olit ajanut",
+            "oli ajanut",
+            "olimme ajaneet",
+            "olitte ajaneet",
+            "olitte ajanut",
+            "olivat ajaneet",
+            "oli ajettu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut ajanut",
+            "et ollut ajanut",
+            "ei ollut ajanut",
+            "emme olleet ajaneet",
+            "ette olleet ajaneet",
+            "ette ollut ajanut",
+            "eivät olleet ajaneet",
+            "ei ollut ajettu"
+        ]
+    },
+    "ajatella": {
+        "preesens": [
+            "ajattelen",
+            "ajattelet",
+            "ajattelee",
+            "ajattelemme",
+            "ajattelette",
+            "ajattelette",
+            "ajattelevat",
+            "ajatellaan"
+        ],
+        "preesens_neg": [
+            "en ajattele",
+            "et ajattele",
+            "ei ajattele",
+            "emme ajattele",
+            "ette ajattele",
+            "ette ajattele",
+            "eivät ajattele",
+            "ei ajatella"
+        ],
+        "imperfekti": [
+            "ajattelin",
+            "ajattelit",
+            "ajatteli",
+            "ajattelimme",
+            "ajattelitte",
+            "ajattelitte",
+            "ajattelivat",
+            "ajateltiin"
+        ],
+        "imperfekti_neg": [
+            "en ajatellut",
+            "et ajatellut",
+            "ei ajatellut",
+            "emme ajatelleet",
+            "ette ajatelleet",
+            "ette ajatellut",
+            "eivät ajatelleet",
+            "ei ajateltu"
+        ],
+        "perfekti": [
+            "olen ajatellut",
+            "olet ajatellut",
+            "on ajatellut",
+            "olemme ajatelleet",
+            "olette ajatelleet",
+            "olette ajatellut",
+            "ovat ajatelleet",
+            "on ajateltu"
+        ],
+        "perfekti_neg": [
+            "en ole ajatellut",
+            "et ole ajatellut",
+            "ei ole ajatellut",
+            "emme ole ajatelleet",
+            "ette ole ajatelleet",
+            "ette ole ajatellut",
+            "eivät ole ajatelleet",
+            "ei ole ajateltu"
+        ],
+        "pluskvamperfekti": [
+            "olin ajatellut",
+            "olit ajatellut",
+            "oli ajatellut",
+            "olimme ajatelleet",
+            "olitte ajatelleet",
+            "olitte ajatellut",
+            "olivat ajatelleet",
+            "oli ajateltu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut ajatellut",
+            "et ollut ajatellut",
+            "ei ollut ajatellut",
+            "emme olleet ajatelleet",
+            "ette olleet ajatelleet",
+            "ette ollut ajatellut",
+            "eivät olleet ajatelleet",
+            "ei ollut ajateltu"
+        ]
+    },
+    "alkaa": {
+        "preesens": [
+            "alan",
+            "alat",
+            "alkaa",
+            "alamme",
+            "alatte",
+            "alatte",
+            "alkavat",
+            "aletaan"
+        ],
+        "preesens_neg": [
+            "en ala",
+            "et ala",
+            "ei ala",
+            "emme ala",
+            "ette ala",
+            "ette ala",
+            "eivät ala",
+            "ei aleta"
+        ],
+        "imperfekti": [
+            "aloin",
+            "aloit",
+            "alkoi",
+            "aloimme",
+            "aloitte",
+            "aloitte",
+            "alkoivat",
+            "alettiin"
+        ],
+        "imperfekti_neg": [
+            "en alkanut",
+            "et alkanut",
+            "ei alkanut",
+            "emme alkaneet",
+            "ette alkaneet",
+            "ette alkanut",
+            "eivät alkaneet",
+            "ei alettu"
+        ],
+        "perfekti": [
+            "olen alkanut",
+            "olet alkanut",
+            "on alkanut",
+            "olemme alkaneet",
+            "olette alkaneet",
+            "olette alkanut",
+            "ovat alkaneet",
+            "on alettu"
+        ],
+        "perfekti_neg": [
+            "en ole alkanut",
+            "et ole alkanut",
+            "ei ole alkanut",
+            "emme ole alkaneet",
+            "ette ole alkaneet",
+            "ette ole alkanut",
+            "eivät ole alkaneet",
+            "ei ole alettu"
+        ],
+        "pluskvamperfekti": [
+            "olin alkanut",
+            "olit alkanut",
+            "oli alkanut",
+            "olimme alkaneet",
+            "olitte alkaneet",
+            "olitte alkanut",
+            "olivat alkaneet",
+            "oli alettu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut alkanut",
+            "et ollut alkanut",
+            "ei ollut alkanut",
+            "emme olleet alkaneet",
+            "ette olleet alkaneet",
+            "ette ollut alkanut",
+            "eivät olleet alkaneet",
+            "ei ollut alettu"
+        ]
+    },
+    "antaa": {
+        "preesens": [
+            "annan",
+            "annat",
+            "antaa",
+            "annamme",
+            "annatte",
+            "annatte",
+            "antavat",
+            "annetaan"
+        ],
+        "preesens_neg": [
+            "en anna",
+            "et anna",
+            "ei anna",
+            "emme anna",
+            "ette anna",
+            "ette anna",
+            "eivät anna",
+            "ei anneta"
+        ],
+        "imperfekti": [
+            "annoin",
+            "annoit",
+            "antoi",
+            "annoimme",
+            "annoitte",
+            "annoitte",
+            "antoivat",
+            "annettiin"
+        ],
+        "imperfekti_neg": [
+            "en antanut",
+            "et antanut",
+            "ei antanut",
+            "emme antaneet",
+            "ette antaneet",
+            "ette antanut",
+            "eivät antaneet",
+            "ei annettu"
+        ],
+        "perfekti": [
+            "olen antanut",
+            "olet antanut",
+            "on antanut",
+            "olemme antaneet",
+            "olette antaneet",
+            "olette antanut",
+            "ovat antaneet",
+            "on annettu"
+        ],
+        "perfekti_neg": [
+            "en ole antanut",
+            "et ole antanut",
+            "ei ole antanut",
+            "emme ole antaneet",
+            "ette ole antaneet",
+            "ette ole antanut",
+            "eivät ole antaneet",
+            "ei ole annettu"
+        ],
+        "pluskvamperfekti": [
+            "olin antanut",
+            "olit antanut",
+            "oli antanut",
+            "olimme antaneet",
+            "olitte antaneet",
+            "olitte antanut",
+            "olivat antaneet",
+            "oli annettu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut antanut",
+            "et ollut antanut",
+            "ei ollut antanut",
+            "emme olleet antaneet",
+            "ette olleet antaneet",
+            "ette ollut antanut",
+            "eivät olleet antaneet",
+            "ei ollut annettu"
+        ]
+    },
+    "asua": {
+        "preesens": [
+            "asun",
+            "asut",
+            "asuu",
+            "asumme",
+            "asutte",
+            "asutte",
+            "asuvat",
+            "asutaan"
+        ],
+        "preesens_neg": [
+            "en asu",
+            "et asu",
+            "ei asu",
+            "emme asu",
+            "ette asu",
+            "ette asu",
+            "eivät asu",
+            "ei asuta"
+        ],
+        "imperfekti": [
+            "asuin",
+            "asuit",
+            "asui",
+            "asuimme",
+            "asuitte",
+            "asuitte",
+            "asuivat",
+            "asuttiin"
+        ],
+        "imperfekti_neg": [
+            "en asunut",
+            "et asunut",
+            "ei asunut",
+            "emme asuneet",
+            "ette asuneet",
+            "ette asunut",
+            "eivät asuneet",
+            "ei asuttu"
+        ],
+        "perfekti": [
+            "olen asunut",
+            "olet asunut",
+            "on asunut",
+            "olemme asuneet",
+            "olette asuneet",
+            "olette asunut",
+            "ovat asuneet",
+            "on asuttu"
+        ],
+        "perfekti_neg": [
+            "en ole asunut",
+            "et ole asunut",
+            "ei ole asunut",
+            "emme ole asuneet",
+            "ette ole asuneet",
+            "ette ole asunut",
+            "eivät ole asuneet",
+            "ei ole asuttu"
+        ],
+        "pluskvamperfekti": [
+            "olin asunut",
+            "olit asunut",
+            "oli asunut",
+            "olimme asuneet",
+            "olitte asuneet",
+            "olitte asunut",
+            "olivat asuneet",
+            "oli asuttu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut asunut",
+            "et ollut asunut",
+            "ei ollut asunut",
+            "emme olleet asuneet",
+            "ette olleet asuneet",
+            "ette ollut asunut",
+            "eivät olleet asuneet",
+            "ei ollut asuttu"
+        ]
+    },
+    "auttaa": {
+        "preesens": [
+            "autan",
+            "autat",
+            "auttaa",
+            "autamme",
+            "autatte",
+            "autatte",
+            "auttavat",
+            "autetaan"
+        ],
+        "preesens_neg": [
+            "en auta",
+            "et auta",
+            "ei auta",
+            "emme auta",
+            "ette auta",
+            "ette auta",
+            "eivät auta",
+            "ei auteta"
+        ],
+        "imperfekti": [
+            "autoin",
+            "autoit",
+            "auttoi",
+            "autoimme",
+            "autoitte",
+            "autoitte",
+            "auttoivat",
+            "autettiin"
+        ],
+        "imperfekti_neg": [
+            "en auttanut",
+            "et auttanut",
+            "ei auttanut",
+            "emme auttaneet",
+            "ette auttaneet",
+            "ette auttanut",
+            "eivät auttaneet",
+            "ei autettu"
+        ],
+        "perfekti": [
+            "olen auttanut",
+            "olet auttanut",
+            "on auttanut",
+            "olemme auttaneet",
+            "olette auttaneet",
+            "olette auttanut",
+            "ovat auttaneet",
+            "on autettu"
+        ],
+        "perfekti_neg": [
+            "en ole auttanut",
+            "et ole auttanut",
+            "ei ole auttanut",
+            "emme ole auttaneet",
+            "ette ole auttaneet",
+            "ette ole auttanut",
+            "eivät ole auttaneet",
+            "ei ole autettu"
+        ],
+        "pluskvamperfekti": [
+            "olin auttanut",
+            "olit auttanut",
+            "oli auttanut",
+            "olimme auttaneet",
+            "olitte auttaneet",
+            "olitte auttanut",
+            "olivat auttaneet",
+            "oli autettu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut auttanut",
+            "et ollut auttanut",
+            "ei ollut auttanut",
+            "emme olleet auttaneet",
+            "ette olleet auttaneet",
+            "ette ollut auttanut",
+            "eivät olleet auttaneet",
+            "ei ollut autettu"
+        ]
+    },
+    "avata": {
+        "preesens": [
+            "avaan",
+            "avaat",
+            "avaa",
+            "avaamme",
+            "avaatte",
+            "avaatte",
+            "avaavat",
+            "avataan"
+        ],
+        "preesens_neg": [
+            "en avaa",
+            "et avaa",
+            "ei avaa",
+            "emme avaa",
+            "ette avaa",
+            "ette avaa",
+            "eivät avaa",
+            "ei avata"
+        ],
+        "imperfekti": [
+            "avasin",
+            "avasit",
+            "avasi",
+            "avasimme",
+            "avasitte",
+            "avasitte",
+            "avasivat",
+            "avattiin"
+        ],
+        "imperfekti_neg": [
+            "en avannut",
+            "et avannut",
+            "ei avannut",
+            "emme avanneet",
+            "ette avanneet",
+            "ette avannut",
+            "eivät avanneet",
+            "ei avattu"
+        ],
+        "perfekti": [
+            "olen avannut",
+            "olet avannut",
+            "on avannut",
+            "olemme avanneet",
+            "olette avanneet",
+            "olette avannut",
+            "ovat avanneet",
+            "on avattu"
+        ],
+        "perfekti_neg": [
+            "en ole avannut",
+            "et ole avannut",
+            "ei ole avannut",
+            "emme ole avanneet",
+            "ette ole avanneet",
+            "ette ole avannut",
+            "eivät ole avanneet",
+            "ei ole avattu"
+        ],
+        "pluskvamperfekti": [
+            "olin avannut",
+            "olit avannut",
+            "oli avannut",
+            "olimme avanneet",
+            "olitte avanneet",
+            "olitte avannut",
+            "olivat avanneet",
+            "oli avattu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut avannut",
+            "et ollut avannut",
+            "ei ollut avannut",
+            "emme olleet avanneet",
+            "ette olleet avanneet",
+            "ette ollut avannut",
+            "eivät olleet avanneet",
+            "ei ollut avattu"
+        ]
+    },
+    "elää": {
+        "preesens": [
+            "elän",
+            "elät",
+            "elää",
+            "elämme",
+            "elätte",
+            "elätte",
+            "elävät",
+            "eletään"
+        ],
+        "preesens_neg": [
+            "en elä",
+            "et elä",
+            "ei elä",
+            "emme elä",
+            "ette elä",
+            "ette elä",
+            "eivät elä",
+            "ei eletä"
+        ],
+        "imperfekti": [
+            "elin",
+            "elit",
+            "eli",
+            "elimme",
+            "elitte",
+            "elitte",
+            "elivät",
+            "elettiin"
+        ],
+        "imperfekti_neg": [
+            "en elänyt",
+            "et elänyt",
+            "ei elänyt",
+            "emme eläneet",
+            "ette eläneet",
+            "ette elänyt",
+            "eivät eläneet",
+            "ei eletty"
+        ],
+        "perfekti": [
+            "olen elänyt",
+            "olet elänyt",
+            "on elänyt",
+            "olemme eläneet",
+            "olette eläneet",
+            "olette elänyt",
+            "ovat eläneet",
+            "on eletty"
+        ],
+        "perfekti_neg": [
+            "en ole elänyt",
+            "et ole elänyt",
+            "ei ole elänyt",
+            "emme ole eläneet",
+            "ette ole eläneet",
+            "ette ole elänyt",
+            "eivät ole eläneet",
+            "ei ole eletty"
+        ],
+        "pluskvamperfekti": [
+            "olin elänyt",
+            "olit elänyt",
+            "oli elänyt",
+            "olimme eläneet",
+            "olitte eläneet",
+            "olitte elänyt",
+            "olivat eläneet",
+            "oli eletty"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut elänyt",
+            "et ollut elänyt",
+            "ei ollut elänyt",
+            "emme olleet eläneet",
+            "ette olleet eläneet",
+            "ette ollut elänyt",
+            "eivät olleet eläneet",
+            "ei ollut eletty"
+        ]
+    },
+    "etsiä": {
+        "preesens": [
+            "etsin",
+            "etsit",
+            "etsii",
+            "etsimme",
+            "etsitte",
+            "etsitte",
+            "etsivät",
+            "etsitään"
+        ],
+        "preesens_neg": [
+            "en etsi",
+            "et etsi",
+            "ei etsi",
+            "emme etsi",
+            "ette etsi",
+            "ette etsi",
+            "eivät etsi",
+            "ei etsitä"
+        ],
+        "imperfekti": [
+            "etsin",
+            "etsit",
+            "etsi",
+            "etsimme",
+            "etsitte",
+            "etsitte",
+            "etsivät",
+            "etsittiin"
+        ],
+        "imperfekti_neg": [
+            "en etsinyt",
+            "et etsinyt",
+            "ei etsinyt",
+            "emme etsineet",
+            "ette etsineet",
+            "ette etsinyt",
+            "eivät etsineet",
+            "ei etsitty"
+        ],
+        "perfekti": [
+            "olen etsinyt",
+            "olet etsinyt",
+            "on etsinyt",
+            "olemme etsineet",
+            "olette etsineet",
+            "olette etsinyt",
+            "ovat etsineet",
+            "on etsitty"
+        ],
+        "perfekti_neg": [
+            "en ole etsinyt",
+            "et ole etsinyt",
+            "ei ole etsinyt",
+            "emme ole etsineet",
+            "ette ole etsineet",
+            "ette ole etsinyt",
+            "eivät ole etsineet",
+            "ei ole etsitty"
+        ],
+        "pluskvamperfekti": [
+            "olin etsinyt",
+            "olit etsinyt",
+            "oli etsinyt",
+            "olimme etsineet",
+            "olitte etsineet",
+            "olitte etsinyt",
+            "olivat etsineet",
+            "oli etsitty"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut etsinyt",
+            "et ollut etsinyt",
+            "ei ollut etsinyt",
+            "emme olleet etsineet",
+            "ette olleet etsineet",
+            "ette ollut etsinyt",
+            "eivät olleet etsineet",
+            "ei ollut etsitty"
+        ]
+    },
+    "haluta": {
+        "preesens": [
+            "haluan",
+            "haluat",
+            "haluaa",
+            "haluamme",
+            "haluatte",
+            "haluatte",
+            "haluavat",
+            "halutaan"
+        ],
+        "preesens_neg": [
+            "en halua",
+            "et halua",
+            "ei halua",
+            "emme halua",
+            "ette halua",
+            "ette halua",
+            "eivät halua",
+            "ei haluta"
+        ],
+        "imperfekti": [
+            "halusin",
+            "halusit",
+            "halusi",
+            "halusimme",
+            "halusitte",
+            "halusitte",
+            "halusivat",
+            "haluttiin"
+        ],
+        "imperfekti_neg": [
+            "en halunnut",
+            "et halunnut",
+            "ei halunnut",
+            "emme halunneet",
+            "ette halunneet",
+            "ette halunnut",
+            "eivät halunneet",
+            "ei haluttu"
+        ],
+        "perfekti": [
+            "olen halunnut",
+            "olet halunnut",
+            "on halunnut",
+            "olemme halunneet",
+            "olette halunneet",
+            "olette halunnut",
+            "ovat halunneet",
+            "on haluttu"
+        ],
+        "perfekti_neg": [
+            "en ole halunnut",
+            "et ole halunnut",
+            "ei ole halunnut",
+            "emme ole halunneet",
+            "ette ole halunneet",
+            "ette ole halunnut",
+            "eivät ole halunneet",
+            "ei ole haluttu"
+        ],
+        "pluskvamperfekti": [
+            "olin halunnut",
+            "olit halunnut",
+            "oli halunnut",
+            "olimme halunneet",
+            "olitte halunneet",
+            "olitte halunnut",
+            "olivat halunneet",
+            "oli haluttu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut halunnut",
+            "et ollut halunnut",
+            "ei ollut halunnut",
+            "emme olleet halunneet",
+            "ette olleet halunneet",
+            "ette ollut halunnut",
+            "eivät olleet halunneet",
+            "ei ollut haluttu"
+        ]
+    },
+    "herätä": {
+        "preesens": [
+            "herään",
+            "heräät",
+            "herää",
+            "heräämme",
+            "heräätte",
+            "heräätte",
+            "heräävät",
+            "herätään"
+        ],
+        "preesens_neg": [
+            "en herää",
+            "et herää",
+            "ei herää",
+            "emme herää",
+            "ette herää",
+            "ette herää",
+            "eivät herää",
+            "ei herätä"
+        ],
+        "imperfekti": [
+            "heräsin",
+            "herästt",
+            "heräsi",
+            "herästmme",
+            "herästtte",
+            "herästtte",
+            "herästivät",
+            "herättiin"
+        ],
+        "imperfekti_neg": [
+            "en herännyt",
+            "et herännyt",
+            "ei herännyt",
+            "emme heränneet",
+            "ette heränneet",
+            "ette herännyt",
+            "eivät heränneet",
+            "ei herätti"
+        ],
+        "perfekti": [
+            "olen herännyt",
+            "olet herännyt",
+            "on herännyt",
+            "olemme heränneet",
+            "olette heränneet",
+            "olette herännyt",
+            "ovat heränneet",
+            "on herätti"
+        ],
+        "perfekti_neg": [
+            "en ole herännyt",
+            "et ole herännyt",
+            "ei ole herännyt",
+            "emme ole heränneet",
+            "ette ole heränneet",
+            "ette ole herännyt",
+            "eivät ole heränneet",
+            "ei ole herätti"
+        ],
+        "pluskvamperfekti": [
+            "olin herännyt",
+            "olit herännyt",
+            "oli herännyt",
+            "olimme heränneet",
+            "olitte heränneet",
+            "olitte herännyt",
+            "olivat heränneet",
+            "oli herätti"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut herännyt",
+            "et ollut herännyt",
+            "ei ollut herännyt",
+            "emme olleet heränneet",
+            "ette olleet heränneet",
+            "ette ollut herännyt",
+            "eivät olleet heränneet",
+            "ei ollut herätti"
+        ]
+    },
+    "huomata": {
+        "preesens": [
+            "huomaan",
+            "huomaat",
+            "huomaa",
+            "huomaamme",
+            "huomaatte",
+            "huomaatte",
+            "huomaavat",
+            "huomataan"
+        ],
+        "preesens_neg": [
+            "en huomaa",
+            "et huomaa",
+            "ei huomaa",
+            "emme huomaa",
+            "ette huomaa",
+            "ette huomaa",
+            "eivät huomaa",
+            "ei huomata"
+        ],
+        "imperfekti": [
+            "huomasin",
+            "huomasit",
+            "huomasi",
+            "huomasimme",
+            "huomasitte",
+            "huomasitte",
+            "huomasivat",
+            "huomattiin"
+        ],
+        "imperfekti_neg": [
+            "en huomannut",
+            "et huomannut",
+            "ei huomannut",
+            "emme huomanneet",
+            "ette huomanneet",
+            "ette huomannut",
+            "eivät huomanneet",
+            "ei huomattu"
+        ],
+        "perfekti": [
+            "olen huomannut",
+            "olet huomannut",
+            "on huomannut",
+            "olemme huomanneet",
+            "olette huomanneet",
+            "olette huomannut",
+            "ovat huomanneet",
+            "on huomattu"
+        ],
+        "perfekti_neg": [
+            "en ole huomannut",
+            "et ole huomannut",
+            "ei ole huomannut",
+            "emme ole huomanneet",
+            "ette ole huomanneet",
+            "ette ole huomannut",
+            "eivät ole huomanneet",
+            "ei ole huomattu"
+        ],
+        "pluskvamperfekti": [
+            "olin huomannut",
+            "olit huomannut",
+            "oli huomannut",
+            "olimme huomanneet",
+            "olitte huomanneet",
+            "olitte huomannut",
+            "olivat huomanneet",
+            "oli huomattu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut huomannut",
+            "et ollut huomannut",
+            "ei ollut huomannut",
+            "emme olleet huomanneet",
+            "ette olleet huomanneet",
+            "ette ollut huomannut",
+            "eivät olleet huomanneet",
+            "ei ollut huomattu"
+        ]
+    },
+    "istua": {
+        "preesens": [
+            "istun",
+            "istut",
+            "istuu",
+            "istumme",
+            "istutte",
+            "istutte",
+            "istuvat",
+            "istutaan"
+        ],
+        "preesens_neg": [
+            "en istu",
+            "et istu",
+            "ei istu",
+            "emme istu",
+            "ette istu",
+            "ette istu",
+            "eivät istu",
+            "ei istuta"
+        ],
+        "imperfekti": [
+            "istuin",
+            "istuut",
+            "istui",
+            "istuimme",
+            "istuitte",
+            "istuitte",
+            "istuivat",
+            "istuttiin"
+        ],
+        "imperfekti_neg": [
+            "en istunut",
+            "et istunut",
+            "ei istunut",
+            "emme istuneet",
+            "ette istuneet",
+            "ette istunut",
+            "eivät istuneet",
+            "ei istuttu"
+        ],
+        "perfekti": [
+            "olen istunut",
+            "olet istunut",
+            "on istunut",
+            "olemme istuneet",
+            "olette istuneet",
+            "olette istunut",
+            "ovat istuneet",
+            "on istuttu"
+        ],
+        "perfekti_neg": [
+            "en ole istunut",
+            "et ole istunut",
+            "ei ole istunut",
+            "emme ole istuneet",
+            "ette ole istuneet",
+            "ette ole istunut",
+            "eivät ole istuneet",
+            "ei ole istuttu"
+        ],
+        "pluskvamperfekti": [
+            "olin istunut",
+            "olit istunut",
+            "oli istunut",
+            "olimme istuneet",
+            "olitte istuneet",
+            "olitte istunut",
+            "olivat istuneet",
+            "oli istuttu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut istunut",
+            "et ollut istunut",
+            "ei ollut istunut",
+            "emme olleet istuneet",
+            "ette olleet istuneet",
+            "ette ollut istunut",
+            "eivät olleet istuneet",
+            "ei ollut istuttu"
+        ]
+    },
+    "johtaa": {
+        "preesens": [
+            "johdan",
+            "johdat",
+            "johtaa",
+            "johdamme",
+            "johdatte",
+            "johdatte",
+            "johtavat",
+            "johdetaan"
+        ],
+        "preesens_neg": [
+            "en johda",
+            "et johda",
+            "ei johda",
+            "emme johda",
+            "ette johda",
+            "ette johda",
+            "eivät johda",
+            "ei johdeta"
+        ],
+        "imperfekti": [
+            "johdin",
+            "johdit",
+            "johti",
+            "johdimme",
+            "johditte",
+            "johditte",
+            "johtivat",
+            "johdettiin"
+        ],
+        "imperfekti_neg": [
+            "en johtanut",
+            "et johtanut",
+            "ei johtanut",
+            "emme johtaneet",
+            "ette johtaneet",
+            "ette johtanut",
+            "eivät johtaneet",
+            "ei johdettu"
+        ],
+        "perfekti": [
+            "olen johtanut",
+            "olet johtanut",
+            "on johtanut",
+            "olemme johtaneet",
+            "olette johtaneet",
+            "olette johtanut",
+            "ovat johtaneet",
+            "on johdettu"
+        ],
+        "perfekti_neg": [
+            "en ole johtanut",
+            "et ole johtanut",
+            "ei ole johtanut",
+            "emme ole johtaneet",
+            "ette ole johtaneet",
+            "ette ole johtanut",
+            "eivät ole johtaneet",
+            "ei ole johdettu"
+        ],
+        "pluskvamperfekti": [
+            "olin johtanut",
+            "olit johtanut",
+            "oli johtanut",
+            "olimme johtaneet",
+            "olitte johtaneet",
+            "olitte johtanut",
+            "olivat johtaneet",
+            "oli johdettu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut johtanut",
+            "et ollut johtanut",
+            "ei ollut johtanut",
+            "emme olleet johtaneet",
+            "ette olleet johtaneet",
+            "ette ollut johtanut",
+            "eivät olleet johtaneet",
+            "ei ollut johdettu"
+        ]
+    },
+    "juoda": {
+        "preesens": [
+            "juon",
+            "juot",
+            "juo",
+            "juomme",
+            "juotte",
+            "juotte",
+            "juovat",
+            "juodaan"
+        ],
+        "preesens_neg": [
+            "en juo",
+            "et juo",
+            "ei juo",
+            "emme juo",
+            "ette juo",
+            "ette juo",
+            "eivät juo",
+            "ei juoda"
+        ],
+        "imperfekti": [
+            "join",
+            "joit",
+            "joi",
+            "joimme",
+            "joitte",
+            "joitte",
+            "joivat",
+            "juotiin"
+        ],
+        "imperfekti_neg": [
+            "en juonut",
+            "et juonut",
+            "ei juonut",
+            "emme juoneet",
+            "ette juoneet",
+            "ette juonut",
+            "eivät juoneet",
+            "ei juotu"
+        ],
+        "perfekti": [
+            "olen juonut",
+            "olet juonut",
+            "on juonut",
+            "olemme juoneet",
+            "olette juoneet",
+            "olette juonut",
+            "ovat juoneet",
+            "on juotu"
+        ],
+        "perfekti_neg": [
+            "en ole juonut",
+            "et ole juonut",
+            "ei ole juonut",
+            "emme ole juoneet",
+            "ette ole juoneet",
+            "ette ole juonut",
+            "eivät ole juoneet",
+            "ei ole juotu"
+        ],
+        "pluskvamperfekti": [
+            "olin juonut",
+            "olit juonut",
+            "oli juonut",
+            "olimme juoneet",
+            "olitte juoneet",
+            "olitte juonut",
+            "olivat juoneet",
+            "oli juotu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut juonut",
+            "et ollut juonut",
+            "ei ollut juonut",
+            "emme olleet juoneet",
+            "ette olleet juoneet",
+            "ette ollut juonut",
+            "eivät olleet juoneet",
+            "ei ollut juotu"
+        ]
+    },
+    "juosta": {
+        "preesens": [
+            "juoksen",
+            "juokset",
+            "juoksee",
+            "juoksemme",
+            "juoksette",
+            "juoksette",
+            "juoksevat",
+            "juostaan"
+        ],
+        "preesens_neg": [
+            "en juokse",
+            "et juokse",
+            "ei juokse",
+            "emme juokse",
+            "ette juokse",
+            "ette juokse",
+            "eivät juokse",
+            "ei juosta"
+        ],
+        "imperfekti": [
+            "juoksin",
+            "juoksit",
+            "juoksi",
+            "juoksimme",
+            "juoksitte",
+            "juoksitte",
+            "juoksivat",
+            "juostiin"
+        ],
+        "imperfekti_neg": [
+            "en juossut",
+            "et juossut",
+            "ei juossut",
+            "emme juosseet",
+            "ette juosseet",
+            "ette juossut",
+            "eivät juosseet",
+            "ei juostu"
+        ],
+        "perfekti": [
+            "olen juossut",
+            "olet juossut",
+            "on juossut",
+            "olemme juosseet",
+            "olette juosseet",
+            "olette juossut",
+            "ovat juosseet",
+            "on juostu"
+        ],
+        "perfekti_neg": [
+            "en ole juossut",
+            "et ole juossut",
+            "ei ole juossut",
+            "emme ole juosseet",
+            "ette ole juosseet",
+            "ette ole juossut",
+            "eivät ole juosseet",
+            "ei ole juostu"
+        ],
+        "pluskvamperfekti": [
+            "olin juossut",
+            "olit juossut",
+            "oli juossut",
+            "olimme juosseet",
+            "olitte juosseet",
+            "olitte juossut",
+            "olivat juosseet",
+            "oli juostu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut juossut",
+            "et ollut juossut",
+            "ei ollut juossut",
+            "emme olleet juosseet",
+            "ette olleet juosseet",
+            "ette ollut juossut",
+            "eivät olleet juosseet",
+            "ei ollut juostu"
+        ]
+    },
+    "jäädä": {
+        "preesens": [
+            "jään",
+            "jäät",
+            "jää",
+            "jäämme",
+            "jäätte",
+            "jäätte",
+            "jäävät",
+            "jäädään"
+        ],
+        "preesens_neg": [
+            "en jää",
+            "et jää",
+            "ei jää",
+            "emme jää",
+            "ette jää",
+            "ette jää",
+            "eivät jää",
+            "ei jäädä"
+        ],
+        "imperfekti": [
+            "jäin",
+            "jäit",
+            "jäi",
+            "jäimme",
+            "jäitte",
+            "jäitte",
+            "jäivät",
+            "jäätiin"
+        ],
+        "imperfekti_neg": [
+            "en jäänyt",
+            "et jäänyt",
+            "ei jäänyt",
+            "emme jääneet",
+            "ette jääneet",
+            "ette jäänyt",
+            "eivät jääneet",
+            "ei jääty"
+        ],
+        "perfekti": [
+            "olen jäänyt",
+            "olet jäänyt",
+            "on jäänyt",
+            "olemme jääneet",
+            "olette jääneet",
+            "olette jäänyt",
+            "ovat jääneet",
+            "on jääty"
+        ],
+        "perfekti_neg": [
+            "en ole jäänyt",
+            "et ole jäänyt",
+            "ei ole jäänyt",
+            "emme ole jääneet",
+            "ette ole jääneet",
+            "ette ole jäänyt",
+            "eivät ole jääneet",
+            "ei ole jääty"
+        ],
+        "pluskvamperfekti": [
+            "olin jäänyt",
+            "olit jäänyt",
+            "oli jäänyt",
+            "olimme jääneet",
+            "olitte jääneet",
+            "olitte jäänyt",
+            "olivat jääneet",
+            "oli jääty"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut jäänyt",
+            "et ollut jäänyt",
+            "ei ollut jäänyt",
+            "emme olleet jääneet",
+            "ette olleet jääneet",
+            "ette ollut jäänyt",
+            "eivät olleet jääneet",
+            "ei ollut jääty"
+        ]
+    },
+    "katsoa": {
+        "preesens": [
+            "katson",
+            "katsot",
+            "katsoo",
+            "katsomme",
+            "katsotte",
+            "katsotte",
+            "katsovat",
+            "katsotaan"
+        ],
+        "preesens_neg": [
+            "en katso",
+            "et katso",
+            "ei katso",
+            "emme katso",
+            "ette katso",
+            "ette katso",
+            "eivät katso",
+            "ei katsota"
+        ],
+        "imperfekti": [
+            "katsoin",
+            "katsoit",
+            "katsoi",
+            "katsoimme",
+            "katsoitte",
+            "katsoitte",
+            "katsoivat",
+            "katsottiin"
+        ],
+        "imperfekti_neg": [
+            "en katsonut",
+            "et katsonut",
+            "ei katsonut",
+            "emme katsoneet",
+            "ette katsoneet",
+            "ette katsonut",
+            "eivät katsoneet",
+            "ei katsottu"
+        ],
+        "perfekti": [
+            "olen katsonut",
+            "olet katsonut",
+            "on katsonut",
+            "olemme katsoneet",
+            "olette katsoneet",
+            "olette katsonut",
+            "ovat katsoneet",
+            "on katsottu"
+        ],
+        "perfekti_neg": [
+            "en ole katsonut",
+            "et ole katsonut",
+            "ei ole katsonut",
+            "emme ole katsoneet",
+            "ette ole katsoneet",
+            "ette ole katsonut",
+            "eivät ole katsoneet",
+            "ei ole katsottu"
+        ],
+        "pluskvamperfekti": [
+            "olin katsonut",
+            "olit katsonut",
+            "oli katsonut",
+            "olimme katsoneet",
+            "olitte katsoneet",
+            "olitte katsonut",
+            "olivat katsoneet",
+            "oli katsottu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut katsonut",
+            "et ollut katsonut",
+            "ei ollut katsonut",
+            "emme olleet katsoneet",
+            "ette olleet katsoneet",
+            "ette ollut katsonut",
+            "eivät olleet katsoneet",
+            "ei ollut katsottu"
+        ]
+    },
+    "kertoa": {
+        "preesens": [
+            "kerron",
+            "kerrot",
+            "kertoo",
+            "kerromme",
+            "kerrotte",
+            "kerrotte",
+            "kertovat",
+            "kerrotaan"
+        ],
+        "preesens_neg": [
+            "en kerro",
+            "et kerro",
+            "ei kerro",
+            "emme kerro",
+            "ette kerro",
+            "ette kerro",
+            "eivät kerro",
+            "ei kerrota"
+        ],
+        "imperfekti": [
+            "kerroin",
+            "kerroit",
+            "kertoi",
+            "kerroimme",
+            "kerroitte",
+            "kerroitte",
+            "kertoivat",
+            "kerrottiin"
+        ],
+        "imperfekti_neg": [
+            "en kertonut",
+            "et kertonut",
+            "ei kertonut",
+            "emme kertoneet",
+            "ette kertoneet",
+            "ette kertonut",
+            "eivät kertoneet",
+            "ei kerrottu"
+        ],
+        "perfekti": [
+            "olen kertonut",
+            "olet kertonut",
+            "on kertonut",
+            "olemme kertoneet",
+            "olette kertoneet",
+            "olette kertonut",
+            "ovat kertoneet",
+            "on kerrottu"
+        ],
+        "perfekti_neg": [
+            "en ole kertonut",
+            "et ole kertonut",
+            "ei ole kertonut",
+            "emme ole kertoneet",
+            "ette ole kertoneet",
+            "ette ole kertonut",
+            "eivät ole kertoneet",
+            "ei ole kerrottu"
+        ],
+        "pluskvamperfekti": [
+            "olin kertonut",
+            "olit kertonut",
+            "oli kertonut",
+            "olimme kertoneet",
+            "olitte kertoneet",
+            "olitte kertonut",
+            "olivat kertoneet",
+            "oli kerrottu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut kertonut",
+            "et ollut kertonut",
+            "ei ollut kertonut",
+            "emme olleet kertoneet",
+            "ette olleet kertoneet",
+            "ette ollut kertonut",
+            "eivät olleet kertoneet",
+            "ei ollut kerrottu"
+        ]
+    },
+    "kirjoittaa": {
+        "preesens": [
+            "kirjoitan",
+            "kirjoitat",
+            "kirjoittaa",
+            "kirjoitamme",
+            "kirjoitatte",
+            "kirjoitatte",
+            "kirjoittavat",
+            "kirjoitetaan"
+        ],
+        "preesens_neg": [
+            "en kirjoita",
+            "et kirjoita",
+            "ei kirjoita",
+            "emme kirjoita",
+            "ette kirjoita",
+            "ette kirjoita",
+            "eivät kirjoita",
+            "ei kirjoiteta"
+        ],
+        "imperfekti": [
+            "kirjoitin",
+            "kirjoitit",
+            "kirjoitti",
+            "kirjoitimme",
+            "kirjoititte",
+            "kirjoititte",
+            "kirjoittivat",
+            "kirjoitettiin"
+        ],
+        "imperfekti_neg": [
+            "en kirjoittanut",
+            "et kirjoittanut",
+            "ei kirjoittanut",
+            "emme kirjoittaneet",
+            "ette kirjoittaneet",
+            "ette kirjoittanut",
+            "eivät kirjoittaneet",
+            "ei kirjoitettu"
+        ],
+        "perfekti": [
+            "olen kirjoittanut",
+            "olet kirjoittanut",
+            "on kirjoittanut",
+            "olemme kirjoittaneet",
+            "olette kirjoittaneet",
+            "olette kirjoittanut",
+            "ovat kirjoittaneet",
+            "on kirjoitettu"
+        ],
+        "perfekti_neg": [
+            "en ole kirjoittanut",
+            "et ole kirjoittanut",
+            "ei ole kirjoittanut",
+            "emme ole kirjoittaneet",
+            "ette ole kirjoittaneet",
+            "ette ole kirjoittanut",
+            "eivät ole kirjoittaneet",
+            "ei ole kirjoitettu"
+        ],
+        "pluskvamperfekti": [
+            "olin kirjoittanut",
+            "olit kirjoittanut",
+            "oli kirjoittanut",
+            "olimme kirjoittaneet",
+            "olitte kirjoittaneet",
+            "olitte kirjoittanut",
+            "olivat kirjoittaneet",
+            "oli kirjoitettu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut kirjoittanut",
+            "et ollut kirjoittanut",
+            "ei ollut kirjoittanut",
+            "emme olleet kirjoittaneet",
+            "ette olleet kirjoittaneet",
+            "ette ollut kirjoittanut",
+            "eivät olleet kirjoittaneet",
+            "ei ollut kirjoitettu"
+        ]
+    },
+    "kuulla": {
+        "preesens": [
+            "kuulen",
+            "kuulet",
+            "kuulee",
+            "kuulemme",
+            "kuulette",
+            "kuulette",
+            "kuulevat",
+            "kuullaan"
+        ],
+        "preesens_neg": [
+            "en kuule",
+            "et kuule",
+            "ei kuule",
+            "emme kuule",
+            "ette kuule",
+            "ette kuule",
+            "eivät kuule",
+            "ei kuulla"
+        ],
+        "imperfekti": [
+            "kuulin",
+            "kuulit",
+            "kuuli",
+            "kuulimme",
+            "kuulitte",
+            "kuulitte",
+            "kuulivat",
+            "kuultiin"
+        ],
+        "imperfekti_neg": [
+            "en kuullut",
+            "et kuullut",
+            "ei kuullut",
+            "emme kuulleet",
+            "ette kuulleet",
+            "ette kuullut",
+            "eivät kuulleet",
+            "ei kuultu"
+        ],
+        "perfekti": [
+            "olen kuullut",
+            "olet kuullut",
+            "on kuullut",
+            "olemme kuulleet",
+            "olette kuulleet",
+            "olette kuullut",
+            "ovat kuulleet",
+            "on kuultu"
+        ],
+        "perfekti_neg": [
+            "en ole kuullut",
+            "et ole kuullut",
+            "ei ole kuullut",
+            "emme ole kuulleet",
+            "ette ole kuulleet",
+            "ette ole kuullut",
+            "eivät ole kuulleet",
+            "ei ole kuultu"
+        ],
+        "pluskvamperfekti": [
+            "olin kuullut",
+            "olit kuullut",
+            "oli kuullut",
+            "olimme kuulleet",
+            "olitte kuulleet",
+            "olitte kuullut",
+            "olivat kuulleet",
+            "oli kuultu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut kuullut",
+            "et ollut kuullut",
+            "ei ollut kuullut",
+            "emme olleet kuulleet",
+            "ette olleet kuulleet",
+            "ette ollut kuullut",
+            "eivät olleet kuulleet",
+            "ei ollut kuultu"
+        ]
+    },
+    "kutsua": {
+        "preesens": [
+            "kutsun",
+            "kutsut",
+            "kutsuu",
+            "kutsumme",
+            "kutsutte",
+            "kutsutte",
+            "kutsuvat",
+            "kutsutaan"
+        ],
+        "preesens_neg": [
+            "en kutsu",
+            "et kutsu",
+            "ei kutsu",
+            "emme kutsu",
+            "ette kutsu",
+            "ette kutsu",
+            "eivät kutsu",
+            "ei kutsuta"
+        ],
+        "imperfekti": [
+            "kutsuin",
+            "kutsuit",
+            "kutsui",
+            "kutsuimme",
+            "kutsuitte",
+            "kutsuitte",
+            "kutsuivat",
+            "kutsuttiin"
+        ],
+        "imperfekti_neg": [
+            "en kutsunut",
+            "et kutsunut",
+            "ei kutsunut",
+            "emme kutsuneet",
+            "ette kutsuneet",
+            "ette kutsunut",
+            "eivät kutsuneet",
+            "ei kutsuttu"
+        ],
+        "perfekti": [
+            "olen kutsunut",
+            "olet kutsunut",
+            "on kutsunut",
+            "olemme kutsuneet",
+            "olette kutsuneet",
+            "olette kutsunut",
+            "ovat kutsuneet",
+            "on kutsuttu"
+        ],
+        "perfekti_neg": [
+            "en ole kutsunut",
+            "et ole kutsunut",
+            "ei ole kutsunut",
+            "emme ole kutsuneet",
+            "ette ole kutsuneet",
+            "ette ole kutsunut",
+            "eivät ole kutsuneet",
+            "ei ole kutsuttu"
+        ],
+        "pluskvamperfekti": [
+            "olin kutsunut",
+            "olit kutsunut",
+            "oli kutsunut",
+            "olimme kutsuneet",
+            "olitte kutsuneet",
+            "olitte kutsunut",
+            "olivat kutsuneet",
+            "oli kutsuttu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut kutsunut",
+            "et ollut kutsunut",
+            "ei ollut kutsunut",
+            "emme olleet kutsuneet",
+            "ette olleet kutsuneet",
+            "ette ollut kutsunut",
+            "eivät olleet kutsuneet",
+            "ei ollut kutsuttu"
+        ]
+    },
+    "kävellä": {
+        "preesens": [
+            "kävelen",
+            "kävelet",
+            "kävelee",
+            "kävelemme",
+            "kävelette",
+            "kävelette",
+            "kävelevät",
+            "kävellään"
+        ],
+        "preesens_neg": [
+            "en kävele",
+            "et kävele",
+            "ei kävele",
+            "emme kävele",
+            "ette kävele",
+            "ette kävele",
+            "eivät kävele",
+            "ei kävellä"
+        ],
+        "imperfekti": [
+            "kävelin",
+            "kävelit",
+            "käveli",
+            "kävelimme",
+            "kävelitte",
+            "kävelitte",
+            "kävelivät",
+            "käveltiin"
+        ],
+        "imperfekti_neg": [
+            "en kävellyt",
+            "et kävellyt",
+            "ei kävellyt",
+            "emme kävelleet",
+            "ette kävelleet",
+            "ette kävellyt",
+            "eivät kävelleet",
+            "ei kävelty"
+        ],
+        "perfekti": [
+            "olen kävellyt",
+            "olet kävellyt",
+            "on kävellyt",
+            "olemme kävelleet",
+            "olette kävelleet",
+            "olette kävellyt",
+            "ovat kävelleet",
+            "on kävelty"
+        ],
+        "perfekti_neg": [
+            "en ole kävellyt",
+            "et ole kävellyt",
+            "ei ole kävellyt",
+            "emme ole kävelleet",
+            "ette ole kävelleet",
+            "ette ole kävellyt",
+            "eivät ole kävelleet",
+            "ei ole kävelty"
+        ],
+        "pluskvamperfekti": [
+            "olin kävellyt",
+            "olit kävellyt",
+            "oli kävellyt",
+            "olimme kävelleet",
+            "olitte kävelleet",
+            "olitte kävellyt",
+            "olivat kävelleet",
+            "oli kävelty"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut kävellyt",
+            "et ollut kävellyt",
+            "ei ollut kävellyt",
+            "emme olleet kävelleet",
+            "ette olleet kävelleet",
+            "ette ollut kävellyt",
+            "eivät olleet kävelleet",
+            "ei ollut kävelty"
+        ]
+    },
+    "käydä": {
+        "preesens": [
+            "käyn",
+            "käyt",
+            "käy",
+            "käymme",
+            "käytte",
+            "käytte",
+            "käyvät",
+            "käydään"
+        ],
+        "preesens_neg": [
+            "en käy",
+            "et käy",
+            "ei käy",
+            "emme käy",
+            "ette käy",
+            "ette käy",
+            "eivät käy",
+            "ei käydä"
+        ],
+        "imperfekti": [
+            "kävin",
+            "kävit",
+            "kävi",
+            "kävimme",
+            "kävitte",
+            "kävitte",
+            "kävivät",
+            "käytiin"
+        ],
+        "imperfekti_neg": [
+            "en käynyt",
+            "et käynyt",
+            "ei käynyt",
+            "emme käyneet",
+            "ette käyneet",
+            "ette käynyt",
+            "eivät käyneet",
+            "ei käyty"
+        ],
+        "perfekti": [
+            "olen käynyt",
+            "olet käynyt",
+            "on käynyt",
+            "olemme käyneet",
+            "olette käyneet",
+            "olette käynyt",
+            "ovat käyneet",
+            "on käyty"
+        ],
+        "perfekti_neg": [
+            "en ole käynyt",
+            "et ole käynyt",
+            "ei ole käynyt",
+            "emme ole käyneet",
+            "ette ole käyneet",
+            "ette ole käynyt",
+            "eivät ole käyneet",
+            "ei ole käyty"
+        ],
+        "pluskvamperfekti": [
+            "olin käynyt",
+            "olit käynyt",
+            "oli käynyt",
+            "olimme käyneet",
+            "olitte käyneet",
+            "olitte käynyt",
+            "olivat käyneet",
+            "oli käyty"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut käynyt",
+            "et ollut käynyt",
+            "ei ollut käynyt",
+            "emme olleet käyneet",
+            "ette olleet käyneet",
+            "ette ollut käynyt",
+            "eivät olleet käyneet",
+            "ei ollut käyty"
+        ]
+    },
+    "käyttää": {
+        "preesens": [
+            "käytän",
+            "käytät",
+            "käyttää",
+            "käytämme",
+            "käytätte",
+            "käytätte",
+            "käyttävät",
+            "käytetään"
+        ],
+        "preesens_neg": [
+            "en käytä",
+            "et käytä",
+            "ei käytä",
+            "emme käytä",
+            "ette käytä",
+            "ette käytä",
+            "eivät käytä",
+            "ei käytetä"
+        ],
+        "imperfekti": [
+            "käytin",
+            "käytit",
+            "käytti",
+            "käytimme",
+            "käytitte",
+            "käytitte",
+            "käyttivät",
+            "käytettiin"
+        ],
+        "imperfekti_neg": [
+            "en käyttänyt",
+            "et käyttänyt",
+            "ei käyttänyt",
+            "emme käyttäneet",
+            "ette käyttäneet",
+            "ette käyttänyt",
+            "eivät käyttäneet",
+            "ei käytetty"
+        ],
+        "perfekti": [
+            "olen käyttänyt",
+            "olet käyttänyt",
+            "on käyttänyt",
+            "olemme käyttäneet",
+            "olette käyttäneet",
+            "olette käyttänyt",
+            "ovat käyttäneet",
+            "on käytetty"
+        ],
+        "perfekti_neg": [
+            "en ole käyttänyt",
+            "et ole käyttänyt",
+            "ei ole käyttänyt",
+            "emme ole käyttäneet",
+            "ette ole käyttäneet",
+            "ette ole käyttänyt",
+            "eivät ole käyttäneet",
+            "ei ole käytetty"
+        ],
+        "pluskvamperfekti": [
+            "olin käyttänyt",
+            "olit käyttänyt",
+            "oli käyttänyt",
+            "olimme käyttäneet",
+            "olitte käyttäneet",
+            "olitte käyttänyt",
+            "olivat käyttäneet",
+            "oli käytetty"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut käyttänyt",
+            "et ollut käyttänyt",
+            "ei ollut käyttänyt",
+            "emme olleet käyttäneet",
+            "ette olleet käyttäneet",
+            "ette ollut käyttänyt",
+            "eivät olleet käyttäneet",
+            "ei ollut käytetty"
+        ]
+    },
+    "kysyä": {
+        "preesens": [
+            "kysyn",
+            "kysyt",
+            "kysyy",
+            "kysymme",
+            "kysytte",
+            "kysytte",
+            "kysyvät",
+            "kysytään"
+        ],
+        "preesens_neg": [
+            "en kysy",
+            "et kysy",
+            "ei kysy",
+            "emme kysy",
+            "ette kysy",
+            "ette kysy",
+            "eivät kysy",
+            "ei kysytä"
+        ],
+        "imperfekti": [
+            "kysyin",
+            "kysyit",
+            "kysyi",
+            "kysyimme",
+            "kysyitte",
+            "kysyitte",
+            "kysyivät",
+            "kysyttiin"
+        ],
+        "imperfekti_neg": [
+            "en kysynyt",
+            "et kysynyt",
+            "ei kysynyt",
+            "emme kysyneet",
+            "ette kysyneet",
+            "ette kysynyt",
+            "eivät kysyneet",
+            "ei kysytty"
+        ],
+        "perfekti": [
+            "olen kysynyt",
+            "olet kysynyt",
+            "on kysynyt",
+            "olemme kysyneet",
+            "olette kysyneet",
+            "olette kysynyt",
+            "ovat kysyneet",
+            "on kysytty"
+        ],
+        "perfekti_neg": [
+            "en ole kysynyt",
+            "et ole kysynyt",
+            "ei ole kysynyt",
+            "emme ole kysyneet",
+            "ette ole kysyneet",
+            "ette ole kysynyt",
+            "eivät ole kysyneet",
+            "ei ole kysytty"
+        ],
+        "pluskvamperfekti": [
+            "olin kysynyt",
+            "olit kysynyt",
+            "oli kysynyt",
+            "olimme kysyneet",
+            "olitte kysyneet",
+            "olitte kysynyt",
+            "olivat kysyneet",
+            "oli kysytty"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut kysynyt",
+            "et ollut kysynyt",
+            "ei ollut kysynyt",
+            "emme olleet kysyneet",
+            "ette olleet kysyneet",
+            "ette ollut kysynyt",
+            "eivät olleet kysyneet",
+            "ei ollut kysytty"
+        ]
+    },
+    "laittaa": {
+        "preesens": [
+            "laitan",
+            "laitat",
+            "laittaa",
+            "laitamme",
+            "laitatte",
+            "laitatte",
+            "laittavat",
+            "laitetaan"
+        ],
+        "preesens_neg": [
+            "en laita",
+            "et laita",
+            "ei laita",
+            "emme laita",
+            "ette laita",
+            "ette laita",
+            "eivät laita",
+            "ei laiteta"
+        ],
+        "imperfekti": [
+            "laiton",
+            "laitoit",
+            "laittoi",
+            "laitoimme",
+            "laitoitte",
+            "laitoitte",
+            "laittoivat",
+            "laitettiin"
+        ],
+        "imperfekti_neg": [
+            "en laittanut",
+            "et laittanut",
+            "ei laittanut",
+            "emme laittaneet",
+            "ette laittaneet",
+            "ette laittanut",
+            "eivät laittaneet",
+            "ei laitettu"
+        ],
+        "perfekti": [
+            "olen laittanut",
+            "olet laittanut",
+            "on laittanut",
+            "olemme laittaneet",
+            "olette laittaneet",
+            "olette laittanut",
+            "ovat laittaneet",
+            "on laitettu"
+        ],
+        "perfekti_neg": [
+            "en ole laittanut",
+            "et ole laittanut",
+            "ei ole laittanut",
+            "emme ole laittaneet",
+            "ette ole laittaneet",
+            "ette ole laittanut",
+            "eivät ole laittaneet",
+            "ei ole laitettu"
+        ],
+        "pluskvamperfekti": [
+            "olin laittanut",
+            "olit laittanut",
+            "oli laittanut",
+            "olimme laittaneet",
+            "olitte laittaneet",
+            "olitte laittanut",
+            "olivat laittaneet",
+            "oli laitettu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut laittanut",
+            "et ollut laittanut",
+            "ei ollut laittanut",
+            "emme olleet laittaneet",
+            "ette olleet laittaneet",
+            "ette ollut laittanut",
+            "eivät olleet laittaneet",
+            "ei ollut laitettu"
+        ]
+    },
+    "laulaa": {
+        "preesens": [
+            "laulan",
+            "laulat",
+            "laulaa",
+            "laulamme",
+            "laulatte",
+            "laulatte",
+            "laulavat",
+            "lauletaan"
+        ],
+        "preesens_neg": [
+            "en laula",
+            "et laula",
+            "ei laula",
+            "emme laula",
+            "ette laula",
+            "ette laula",
+            "eivät laula",
+            "ei lauleta"
+        ],
+        "imperfekti": [
+            "lauloin",
+            "lauloit",
+            "lauloi",
+            "lauloimme",
+            "lauloitte",
+            "lauloitte",
+            "lauloivat",
+            "laulettiin"
+        ],
+        "imperfekti_neg": [
+            "en laulanut",
+            "et laulanut",
+            "ei laulanut",
+            "emme laulaneet",
+            "ette laulaneet",
+            "ette laulanut",
+            "eivät laulaneet",
+            "ei laulettu"
+        ],
+        "perfekti": [
+            "olen laulanut",
+            "olet laulanut",
+            "on laulanut",
+            "olemme laulaneet",
+            "olette laulaneet",
+            "olette laulanut",
+            "ovat laulaneet",
+            "on laulettu"
+        ],
+        "perfekti_neg": [
+            "en ole laulanut",
+            "et ole laulanut",
+            "ei ole laulanut",
+            "emme ole laulaneet",
+            "ette ole laulaneet",
+            "ette ole laulanut",
+            "eivät ole laulaneet",
+            "ei ole laulettu"
+        ],
+        "pluskvamperfekti": [
+            "olin laulanut",
+            "olit laulanut",
+            "oli laulanut",
+            "olimme laulaneet",
+            "olitte laulaneet",
+            "olitte laulanut",
+            "olivat laulaneet",
+            "oli laulettu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut laulanut",
+            "et ollut laulanut",
+            "ei ollut laulanut",
+            "emme olleet laulaneet",
+            "ette olleet laulaneet",
+            "ette ollut laulanut",
+            "eivät olleet laulaneet",
+            "ei ollut laulettu"
+        ]
+    },
+    "lentää": {
+        "preesens": [
+            "lennän",
+            "lennät",
+            "lentää",
+            "lennämme",
+            "lennätte",
+            "lennätte",
+            "lentävät",
+            "lennetään"
+        ],
+        "preesens_neg": [
+            "en lennä",
+            "et lennä",
+            "ei lennä",
+            "emme lennä",
+            "ette lennä",
+            "ette lennä",
+            "eivät lennä",
+            "ei lennetä"
+        ],
+        "imperfekti": [
+            "lensin",
+            "lensit",
+            "lensi",
+            "lensimme",
+            "lensitte",
+            "lensitte",
+            "lensivät",
+            "lennettiin"
+        ],
+        "imperfekti_neg": [
+            "en lentänyt",
+            "et lentänyt",
+            "ei lentänyt",
+            "emme lentäneet",
+            "ette lentäneet",
+            "ette lentänyt",
+            "eivät lentäneet",
+            "ei lennetty"
+        ],
+        "perfekti": [
+            "olen lentänyt",
+            "olet lentänyt",
+            "on lentänyt",
+            "olemme lentäneet",
+            "olette lentäneet",
+            "olette lentänyt",
+            "ovat lentäneet",
+            "on lennetty"
+        ],
+        "perfekti_neg": [
+            "en ole lentänyt",
+            "et ole lentänyt",
+            "ei ole lentänyt",
+            "emme ole lentäneet",
+            "ette ole lentäneet",
+            "ette ole lentänyt",
+            "eivät ole lentäneet",
+            "ei ole lennetty"
+        ],
+        "pluskvamperfekti": [
+            "olin lentänyt",
+            "olit lentänyt",
+            "oli lentänyt",
+            "olimme lentäneet",
+            "olitte lentäneet",
+            "olitte lentänyt",
+            "olivat lentäneet",
+            "oli lennetty"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut lentänyt",
+            "et ollut lentänyt",
+            "ei ollut lentänyt",
+            "emme olleet lentäneet",
+            "ette olleet lentäneet",
+            "ette ollut lentänyt",
+            "eivät olleet lentäneet",
+            "ei ollut lennetty"
+        ]
+    },
+    "levätä": {
+        "preesens": [
+            "lepään",
+            "lepäät",
+            "lepää",
+            "lepäämme",
+            "lepäätte",
+            "lepäätte",
+            "lepäävät",
+            "levätään"
+        ],
+        "preesens_neg": [
+            "en lepää",
+            "et lepää",
+            "ei lepää",
+            "emme lepää",
+            "ette lepää",
+            "ette lepää",
+            "eivät lepää",
+            "ei levätä"
+        ],
+        "imperfekti": [
+            "leväsin",
+            "levästt",
+            "leväsi",
+            "leväsimme",
+            "leväsitte",
+            "leväsitte",
+            "leväsivät",
+            "levättiin"
+        ],
+        "imperfekti_neg": [
+            "en levännyt",
+            "et levännyt",
+            "ei levännyt",
+            "emme levänneet",
+            "ette levänneet",
+            "ette levännyt",
+            "eivät levänneet",
+            "ei levätti"
+        ],
+        "perfekti": [
+            "olen levännyt",
+            "olet levännyt",
+            "on levännyt",
+            "olemme levänneet",
+            "olette levänneet",
+            "olette levännyt",
+            "ovat levänneet",
+            "on levätti"
+        ],
+        "perfekti_neg": [
+            "en ole levännyt",
+            "et ole levännyt",
+            "ei ole levännyt",
+            "emme ole levänneet",
+            "ette ole levänneet",
+            "ette ole levännyt",
+            "eivät ole levänneet",
+            "ei ole levätti"
+        ],
+        "pluskvamperfekti": [
+            "olin levännyt",
+            "olit levännyt",
+            "oli levännyt",
+            "olimme levänneet",
+            "olitte levänneet",
+            "olitte levännyt",
+            "olivat levänneet",
+            "oli levätti"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut levännyt",
+            "et ollut levännyt",
+            "ei ollut levännyt",
+            "emme olleet levänneet",
+            "ette olleet levänneet",
+            "ette ollut levännyt",
+            "eivät olleet levänneet",
+            "ei ollut levätti"
+        ]
+    },
+    "liikkua": {
+        "preesens": [
+            "liikun",
+            "liikut",
+            "liikkuu",
+            "liikumme",
+            "liikutte",
+            "liikutte",
+            "liikkuvat",
+            "liikutaan"
+        ],
+        "preesens_neg": [
+            "en liiku",
+            "et liiku",
+            "ei liiku",
+            "emme liiku",
+            "ette liiku",
+            "ette liiku",
+            "eivät liiku",
+            "ei liikuta"
+        ],
+        "imperfekti": [
+            "liikuin",
+            "liikuit",
+            "liikkui",
+            "liikuimme",
+            "liikuitte",
+            "liikuitte",
+            "liikkuivat",
+            "liikuttiin"
+        ],
+        "imperfekti_neg": [
+            "en liikkunut",
+            "et liikkunut",
+            "ei liikkunut",
+            "emme liikkuneet",
+            "ette liikkuneet",
+            "ette liikkunut",
+            "eivät liikkuneet",
+            "ei liikuttu"
+        ],
+        "perfekti": [
+            "olen liikkunut",
+            "olet liikkunut",
+            "on liikkunut",
+            "olemme liikkuneet",
+            "olette liikkuneet",
+            "olette liikkunut",
+            "ovat liikkuneet",
+            "on liikuttu"
+        ],
+        "perfekti_neg": [
+            "en ole liikkunut",
+            "et ole liikkunut",
+            "ei ole liikkunut",
+            "emme ole liikkuneet",
+            "ette ole liikkuneet",
+            "ette ole liikkunut",
+            "eivät ole liikkuneet",
+            "ei ole liikuttu"
+        ],
+        "pluskvamperfekti": [
+            "olin liikkunut",
+            "olit liikkunut",
+            "oli liikkunut",
+            "olimme liikkuneet",
+            "olitte liikkuneet",
+            "olitte liikkunut",
+            "olivat liikkuneet",
+            "oli liikuttu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut liikkunut",
+            "et ollut liikkunut",
+            "ei ollut liikkunut",
+            "emme olleet liikkuneet",
+            "ette olleet liikkuneet",
+            "ette ollut liikkunut",
+            "eivät olleet liikkuneet",
+            "ei ollut liikuttu"
+        ]
+    },
+    "lukea": {
+        "preesens": [
+            "luen",
+            "luet",
+            "lukee",
+            "luemme",
+            "luette",
+            "luette",
+            "lukevat",
+            "luetaan"
+        ],
+        "preesens_neg": [
+            "en lue",
+            "et lue",
+            "ei lue",
+            "emme lue",
+            "ette lue",
+            "ette lue",
+            "eivät lue",
+            "ei lueta"
+        ],
+        "imperfekti": [
+            "luin",
+            "luit",
+            "luki",
+            "luimme",
+            "luitte",
+            "luitte",
+            "lukivat",
+            "luettiin"
+        ],
+        "imperfekti_neg": [
+            "en lukenut",
+            "et lukenut",
+            "ei lukenut",
+            "emme lukeneet",
+            "ette lukeneet",
+            "ette lukenut",
+            "eivät lukeneet",
+            "ei luettu"
+        ],
+        "perfekti": [
+            "olen lukenut",
+            "olet lukenut",
+            "on lukenut",
+            "olemme lukeneet",
+            "olette lukeneet",
+            "olette lukenut",
+            "ovat lukeneet",
+            "on luettu"
+        ],
+        "perfekti_neg": [
+            "en ole lukenut",
+            "et ole lukenut",
+            "ei ole lukenut",
+            "emme ole lukeneet",
+            "ette ole lukeneet",
+            "ette ole lukenut",
+            "eivät ole lukeneet",
+            "ei ole luettu"
+        ],
+        "pluskvamperfekti": [
+            "olin lukenut",
+            "olit lukenut",
+            "oli lukenut",
+            "olimme lukeneet",
+            "olitte lukeneet",
+            "olitte lukenut",
+            "olivat lukeneet",
+            "oli luettu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut lukenut",
+            "et ollut lukenut",
+            "ei ollut lukenut",
+            "emme olleet lukeneet",
+            "ette olleet lukeneet",
+            "ette ollut lukenut",
+            "eivät olleet lukeneet",
+            "ei ollut luettu"
+        ]
+    },
+    "lähettää": {
+        "preesens": [
+            "lähetän",
+            "lähetät",
+            "lähettää",
+            "lähetämme",
+            "lähetätte",
+            "lähetätte",
+            "lähettävät",
+            "lähetetään"
+        ],
+        "preesens_neg": [
+            "en lähetä",
+            "et lähetä",
+            "ei lähetä",
+            "emme lähetä",
+            "ette lähetä",
+            "ette lähetä",
+            "eivät lähetä",
+            "ei lähetetä"
+        ],
+        "imperfekti": [
+            "lähetin",
+            "lähetit",
+            "lähetti",
+            "lähetimme",
+            "lähetitte",
+            "lähetitte",
+            "lähettivät",
+            "lähetettiin"
+        ],
+        "imperfekti_neg": [
+            "en lähettänyt",
+            "et lähettänyt",
+            "ei lähettänyt",
+            "emme lähettäneet",
+            "ette lähettäneet",
+            "ette lähettänyt",
+            "eivät lähettäneet",
+            "ei lähetetty"
+        ],
+        "perfekti": [
+            "olen lähettänyt",
+            "olet lähettänyt",
+            "on lähettänyt",
+            "olemme lähettäneet",
+            "olette lähettäneet",
+            "olette lähettänyt",
+            "ovat lähettäneet",
+            "on lähetetty"
+        ],
+        "perfekti_neg": [
+            "en ole lähettänyt",
+            "et ole lähettänyt",
+            "ei ole lähettänyt",
+            "emme ole lähettäneet",
+            "ette ole lähettäneet",
+            "ette ole lähettänyt",
+            "eivät ole lähettäneet",
+            "ei ole lähetetty"
+        ],
+        "pluskvamperfekti": [
+            "olin lähettänyt",
+            "olit lähettänyt",
+            "oli lähettänyt",
+            "olimme lähettäneet",
+            "olitte lähettäneet",
+            "olitte lähettänyt",
+            "olivat lähettäneet",
+            "oli lähetetty"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut lähettänyt",
+            "et ollut lähettänyt",
+            "ei ollut lähettänyt",
+            "emme olleet lähettäneet",
+            "ette olleet lähettäneet",
+            "ette ollut lähettänyt",
+            "eivät olleet lähettäneet",
+            "ei ollut lähetetty"
+        ]
+    },
+    "lähteä": {
+        "preesens": [
+            "lähden",
+            "lähdet",
+            "lähtee",
+            "lähdemme",
+            "lähdette",
+            "lähdette",
+            "lähtevät",
+            "lähdetään"
+        ],
+        "preesens_neg": [
+            "en lähde",
+            "et lähde",
+            "ei lähde",
+            "emme lähde",
+            "ette lähde",
+            "ette lähde",
+            "eivät lähde",
+            "ei lähdetä"
+        ],
+        "imperfekti": [
+            "lähdin",
+            "lähdit",
+            "lähti",
+            "lähdimme",
+            "lähditte",
+            "lähditte",
+            "lähtivät",
+            "lähdettiin"
+        ],
+        "imperfekti_neg": [
+            "en lähtenyt",
+            "et lähtenyt",
+            "ei lähtenyt",
+            "emme lähteneet",
+            "ette lähteneet",
+            "ette lähtenyt",
+            "eivät lähteneet",
+            "ei lähdetty"
+        ],
+        "perfekti": [
+            "olen lähtenyt",
+            "olet lähtenyt",
+            "on lähtenyt",
+            "olemme lähteneet",
+            "olette lähteneet",
+            "olette lähtenyt",
+            "ovat lähteneet",
+            "on lähdetty"
+        ],
+        "perfekti_neg": [
+            "en ole lähtenyt",
+            "et ole lähtenyt",
+            "ei ole lähtenyt",
+            "emme ole lähteneet",
+            "ette ole lähteneet",
+            "ette ole lähtenyt",
+            "eivät ole lähteneet",
+            "ei ole lähdetty"
+        ],
+        "pluskvamperfekti": [
+            "olin lähtenyt",
+            "olit lähtenyt",
+            "oli lähtenyt",
+            "olimme lähteneet",
+            "olitte lähteneet",
+            "olitte lähtenyt",
+            "olivat lähteneet",
+            "oli lähdetty"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut lähtenyt",
+            "et ollut lähtenyt",
+            "ei ollut lähtenyt",
+            "emme olleet lähteneet",
+            "ette olleet lähteneet",
+            "ette ollut lähtenyt",
+            "eivät olleet lähteneet",
+            "ei ollut lähdetty"
+        ]
+    },
+    "löytää": {
+        "preesens": [
+            "löydän",
+            "löydät",
+            "löytää",
+            "löydämme",
+            "löydätte",
+            "löydätte",
+            "löytävät",
+            "löydetään"
+        ],
+        "preesens_neg": [
+            "en löydä",
+            "et löydä",
+            "ei löydä",
+            "emme löydä",
+            "ette löydä",
+            "ette löydä",
+            "eivät löydä",
+            "ei löydetä"
+        ],
+        "imperfekti": [
+            "löysin",
+            "löysit",
+            "löysi",
+            "löysimme",
+            "löysitte",
+            "löysitte",
+            "löysivät",
+            "löydettiin"
+        ],
+        "imperfekti_neg": [
+            "en löytänyt",
+            "et löytänyt",
+            "ei löytänyt",
+            "emme löytäneet",
+            "ette löytäneet",
+            "ette löytänyt",
+            "eivät löytäneet",
+            "ei löydetty"
+        ],
+        "perfekti": [
+            "olen löytänyt",
+            "olet löytänyt",
+            "on löytänyt",
+            "olemme löytäneet",
+            "olette löytäneet",
+            "olette löytänyt",
+            "ovat löytäneet",
+            "on löydetty"
+        ],
+        "perfekti_neg": [
+            "en ole löytänyt",
+            "et ole löytänyt",
+            "ei ole löytänyt",
+            "emme ole löytäneet",
+            "ette ole löytäneet",
+            "ette ole löytänyt",
+            "eivät ole löytäneet",
+            "ei ole löydetty"
+        ],
+        "pluskvamperfekti": [
+            "olin löytänyt",
+            "olit löytänyt",
+            "oli löytänyt",
+            "olimme löytäneet",
+            "olitte löytäneet",
+            "olitte löytänyt",
+            "olivat löytäneet",
+            "oli löydetty"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut löytänyt",
+            "et ollut löytänyt",
+            "ei ollut löytänyt",
+            "emme olleet löytäneet",
+            "ette olleet löytäneet",
+            "ette ollut löytänyt",
+            "eivät olleet löytäneet",
+            "ei ollut löydetty"
+        ]
+    },
+    "maata": {
+        "preesens": [
+            "makaan",
+            "makaat",
+            "makaa",
+            "makaamme",
+            "makaatte",
+            "makaatte",
+            "makaavat",
+            "maataan"
+        ],
+        "preesens_neg": [
+            "en makaa",
+            "et makaa",
+            "ei makaa",
+            "emme makaa",
+            "ette makaa",
+            "ette makaa",
+            "eivät makaa",
+            "ei maata"
+        ],
+        "imperfekti": [
+            "makasin",
+            "makasit",
+            "makasi",
+            "makasimme",
+            "makasitte",
+            "makasitte",
+            "makasivat",
+            "maattiin"
+        ],
+        "imperfekti_neg": [
+            "en maannut",
+            "et maannut",
+            "ei maannut",
+            "emme maanneet",
+            "ette maanneet",
+            "ette maannut",
+            "eivät maanneet",
+            "ei maattu"
+        ],
+        "perfekti": [
+            "olen maannut",
+            "olet maannut",
+            "on maannut",
+            "olemme maanneet",
+            "olette maanneet",
+            "olette maannut",
+            "ovat maanneet",
+            "on maattu"
+        ],
+        "perfekti_neg": [
+            "en ole maannut",
+            "et ole maannut",
+            "ei ole maannut",
+            "emme ole maanneet",
+            "ette ole maanneet",
+            "ette ole maannut",
+            "eivät ole maanneet",
+            "ei ole maattu"
+        ],
+        "pluskvamperfekti": [
+            "olin maannut",
+            "olit maannut",
+            "oli maannut",
+            "olimme maanneet",
+            "olitte maanneet",
+            "olitte maannut",
+            "olivat maanneet",
+            "oli maattu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut maannut",
+            "et ollut maannut",
+            "ei ollut maannut",
+            "emme olleet maanneet",
+            "ette olleet maanneet",
+            "ette ollut maannut",
+            "eivät olleet maanneet",
+            "ei ollut maattu"
+        ]
+    },
+    "maksaa": {
+        "preesens": [
+            "maksan",
+            "maksat",
+            "maksaa",
+            "maksamme",
+            "maksatte",
+            "maksatte",
+            "maksavat",
+            "maksetaan"
+        ],
+        "preesens_neg": [
+            "en maksa",
+            "et maksa",
+            "ei maksa",
+            "emme maksa",
+            "ette maksa",
+            "ette maksa",
+            "eivät maksa",
+            "ei makseta"
+        ],
+        "imperfekti": [
+            "maksoin",
+            "maksoit",
+            "maksoi",
+            "maksoimme",
+            "maksoitte",
+            "maksoitte",
+            "maksoivat",
+            "maksettiin"
+        ],
+        "imperfekti_neg": [
+            "en maksanut",
+            "et maksanut",
+            "ei maksanut",
+            "emme maksaneet",
+            "ette maksaneet",
+            "ette maksanut",
+            "eivät maksaneet",
+            "ei maksettu"
+        ],
+        "perfekti": [
+            "olen maksanut",
+            "olet maksanut",
+            "on maksanut",
+            "olemme maksaneet",
+            "olette maksaneet",
+            "olette maksanut",
+            "ovat maksaneet",
+            "on maksettu"
+        ],
+        "perfekti_neg": [
+            "en ole maksanut",
+            "et ole maksanut",
+            "ei ole maksanut",
+            "emme ole maksaneet",
+            "ette ole maksaneet",
+            "ette ole maksanut",
+            "eivät ole maksaneet",
+            "ei ole maksettu"
+        ],
+        "pluskvamperfekti": [
+            "olin maksanut",
+            "olit maksanut",
+            "oli maksanut",
+            "olimme maksaneet",
+            "olitte maksaneet",
+            "olitte maksanut",
+            "olivat maksaneet",
+            "oli maksettu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut maksanut",
+            "et ollut maksanut",
+            "ei ollut maksanut",
+            "emme olleet maksaneet",
+            "ette olleet maksaneet",
+            "ette ollut maksanut",
+            "eivät olleet maksaneet",
+            "ei ollut maksettu"
+        ]
+    },
+    "mennä": {
+        "preesens": [
+            "menen",
+            "menet",
+            "menee",
+            "menemme",
+            "menette",
+            "menette",
+            "menevät",
+            "mennään"
+        ],
+        "preesens_neg": [
+            "en mene",
+            "et mene",
+            "ei mene",
+            "emme mene",
+            "ette mene",
+            "ette mene",
+            "eivät mene",
+            "ei mennä"
+        ],
+        "imperfekti": [
+            "menin",
+            "menit",
+            "meni",
+            "menimme",
+            "menitte",
+            "menitte",
+            "menivät",
+            "mentiin"
+        ],
+        "imperfekti_neg": [
+            "en mennyt",
+            "et mennyt",
+            "ei mennyt",
+            "emme menneet",
+            "ette menneet",
+            "ette mennyt",
+            "eivät menneet",
+            "ei menty"
+        ],
+        "perfekti": [
+            "olen mennyt",
+            "olet mennyt",
+            "on mennyt",
+            "olemme menneet",
+            "olette menneet",
+            "olette mennyt",
+            "ovat menneet",
+            "on menty"
+        ],
+        "perfekti_neg": [
+            "en ole mennyt",
+            "et ole mennyt",
+            "ei ole mennyt",
+            "emme ole menneet",
+            "ette ole menneet",
+            "ette ole mennyt",
+            "eivät ole menneet",
+            "ei ole menty"
+        ],
+        "pluskvamperfekti": [
+            "olin mennyt",
+            "olit mennyt",
+            "oli mennyt",
+            "olimme menneet",
+            "olitte menneet",
+            "olitte mennyt",
+            "olivat menneet",
+            "oli menty"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut mennyt",
+            "et ollut mennyt",
+            "ei ollut mennyt",
+            "emme olleet menneet",
+            "ette olleet menneet",
+            "ette ollut mennyt",
+            "eivät olleet menneet",
+            "ei ollut menty"
+        ]
+    },
+    "merkitä": {
+        "preesens": [
+            "merkitsen",
+            "merkitset",
+            "merkitsee",
+            "merkitsemme",
+            "merkitsette",
+            "merkitsette",
+            "merkitsevät",
+            "merkitään"
+        ],
+        "preesens_neg": [
+            "en merkitse",
+            "et merkitse",
+            "ei merkitse",
+            "emme merkitse",
+            "ette merkitse",
+            "ette merkitse",
+            "eivät merkitse",
+            "ei merkitä"
+        ],
+        "imperfekti": [
+            "merkitsin",
+            "merkitsit",
+            "merkitsi",
+            "merkitsimme",
+            "merkitsitte",
+            "merkitsitte",
+            "merkitsivät",
+            "merkittiin"
+        ],
+        "imperfekti_neg": [
+            "en merkinnyt",
+            "et merkinnyt",
+            "ei merkinnyt",
+            "emme merkinneet",
+            "ette merkinneet",
+            "ette merkinnyt",
+            "eivät merkinneet",
+            "ei merkitty"
+        ],
+        "perfekti": [
+            "olen merkinnyt",
+            "olet merkinnyt",
+            "on merkinnyt",
+            "olemme merkinneet",
+            "olette merkinneet",
+            "olette merkinnyt",
+            "ovat merkinneet",
+            "on merkitty"
+        ],
+        "perfekti_neg": [
+            "en ole merkinnyt",
+            "et ole merkinnyt",
+            "ei ole merkinnyt",
+            "emme ole merkinneet",
+            "ette ole merkinneet",
+            "ette ole merkinnyt",
+            "eivät ole merkinneet",
+            "ei ole merkitty"
+        ],
+        "pluskvamperfekti": [
+            "olin merkinnyt",
+            "olit merkinnyt",
+            "oli merkinnyt",
+            "olimme merkinneet",
+            "olitte merkinneet",
+            "olitte merkinnyt",
+            "olivat merkinneet",
+            "oli merkitty"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut merkinnyt",
+            "et ollut merkinnyt",
+            "ei ollut merkinnyt",
+            "emme olleet merkinneet",
+            "ette olleet merkinneet",
+            "ette ollut merkinnyt",
+            "eivät olleet merkinneet",
+            "ei ollut merkitty"
+        ]
+    },
+    "muistaa": {
+        "preesens": [
+            "muistan",
+            "muistat",
+            "muistaa",
+            "muistamme",
+            "muistatte",
+            "muistatte",
+            "muistavat",
+            "muistetaan"
+        ],
+        "preesens_neg": [
+            "en muista",
+            "et muista",
+            "ei muista",
+            "emme muista",
+            "ette muista",
+            "ette muista",
+            "eivät muista",
+            "ei muisteta"
+        ],
+        "imperfekti": [
+            "muistin",
+            "muistit",
+            "muisti",
+            "muistimme",
+            "muistitte",
+            "muistitte",
+            "muistivat",
+            "muistettiin"
+        ],
+        "imperfekti_neg": [
+            "en muistanut",
+            "et muistanut",
+            "ei muistanut",
+            "emme muistaneet",
+            "ette muistaneet",
+            "ette muistanut",
+            "eivät muistaneet",
+            "ei muistettu"
+        ],
+        "perfekti": [
+            "olen muistanut",
+            "olet muistanut",
+            "on muistanut",
+            "olemme muistaneet",
+            "olette muistaneet",
+            "olette muistanut",
+            "ovat muistaneet",
+            "on muistettu"
+        ],
+        "perfekti_neg": [
+            "en ole muistanut",
+            "et ole muistanut",
+            "ei ole muistanut",
+            "emme ole muistaneet",
+            "ette ole muistaneet",
+            "ette ole muistanut",
+            "eivät ole muistaneet",
+            "ei ole muistettu"
+        ],
+        "pluskvamperfekti": [
+            "olin muistanut",
+            "olit muistanut",
+            "oli muistanut",
+            "olimme muistaneet",
+            "olitte muistaneet",
+            "olitte muistanut",
+            "olivat muistaneet",
+            "oli muistettu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut muistanut",
+            "et ollut muistanut",
+            "ei ollut muistanut",
+            "emme olleet muistaneet",
+            "ette olleet muistaneet",
+            "ette ollut muistanut",
+            "eivät olleet muistaneet",
+            "ei ollut muistettu"
+        ]
+    },
+    "muuttaa": {
+        "preesens": [
+            "muutan",
+            "muutat",
+            "muuttaa",
+            "muutamme",
+            "muutatte",
+            "muutatte",
+            "muuttavat",
+            "muutetaan"
+        ],
+        "preesens_neg": [
+            "en muuta",
+            "et muuta",
+            "ei muuta",
+            "emme muuta",
+            "ette muuta",
+            "ette muuta",
+            "eivät muuta",
+            "ei muuteta"
+        ],
+        "imperfekti": [
+            "muutin",
+            "muutit",
+            "muutti",
+            "muutimme",
+            "muutitte",
+            "muutitte",
+            "muuttivat",
+            "muutettiin"
+        ],
+        "imperfekti_neg": [
+            "en muuttanut",
+            "et muuttanut",
+            "ei muuttanut",
+            "emme muuttaneet",
+            "ette muuttaneet",
+            "ette muuttanut",
+            "eivät muuttaneet",
+            "ei muutettu"
+        ],
+        "perfekti": [
+            "olen muuttanut",
+            "olet muuttanut",
+            "on muuttanut",
+            "olemme muuttaneet",
+            "olette muuttaneet",
+            "olette muuttanut",
+            "ovat muuttaneet",
+            "on muutettu"
+        ],
+        "perfekti_neg": [
+            "en ole muuttanut",
+            "et ole muuttanut",
+            "ei ole muuttanut",
+            "emme ole muuttaneet",
+            "ette ole muuttaneet",
+            "ette ole muuttanut",
+            "eivät ole muuttaneet",
+            "ei ole muutettu"
+        ],
+        "pluskvamperfekti": [
+            "olin muuttanut",
+            "olit muuttanut",
+            "oli muuttanut",
+            "olimme muuttaneet",
+            "olitte muuttaneet",
+            "olitte muuttanut",
+            "olivat muuttaneet",
+            "oli muutettu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut muuttanut",
+            "et ollut muuttanut",
+            "ei ollut muuttanut",
+            "emme olleet muuttaneet",
+            "ette olleet muuttaneet",
+            "ette ollut muuttanut",
+            "eivät olleet muuttaneet",
+            "ei ollut muutettu"
+        ]
+    },
+    "myydä": {
+        "preesens": [
+            "myyn",
+            "myyt",
+            "myy",
+            "myymme",
+            "myytte",
+            "myytte",
+            "myyvät",
+            "myydään"
+        ],
+        "preesens_neg": [
+            "en myy",
+            "et myy",
+            "ei myy",
+            "emme myy",
+            "ette myy",
+            "ette myy",
+            "eivät myy",
+            "ei myydä"
+        ],
+        "imperfekti": [
+            "myin",
+            "myit",
+            "myi",
+            "myimme",
+            "myitte",
+            "myitte",
+            "myivät",
+            "myytiin"
+        ],
+        "imperfekti_neg": [
+            "en myynyt",
+            "et myynyt",
+            "ei myynyt",
+            "emme myyneet",
+            "ette myyneet",
+            "ette myynyt",
+            "eivät myyneet",
+            "ei myyty"
+        ],
+        "perfekti": [
+            "olen myynyt",
+            "olet myynyt",
+            "on myynyt",
+            "olemme myyneet",
+            "olette myyneet",
+            "olette myynyt",
+            "ovat myyneet",
+            "on myyty"
+        ],
+        "perfekti_neg": [
+            "en ole myynyt",
+            "et ole myynyt",
+            "ei ole myynyt",
+            "emme ole myyneet",
+            "ette ole myyneet",
+            "ette ole myynyt",
+            "eivät ole myyneet",
+            "ei ole myyty"
+        ],
+        "pluskvamperfekti": [
+            "olin myynyt",
+            "olit myynyt",
+            "oli myynyt",
+            "olimme myyneet",
+            "olitte myyneet",
+            "olitte myynyt",
+            "olivat myyneet",
+            "oli myyty"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut myynyt",
+            "et ollut myynyt",
+            "ei ollut myynyt",
+            "emme olleet myyneet",
+            "ette olleet myyneet",
+            "ette ollut myynyt",
+            "eivät olleet myyneet",
+            "ei ollut myyty"
+        ]
+    },
+    "nousta": {
+        "preesens": [
+            "nousen",
+            "nouset",
+            "nousee",
+            "nousemme",
+            "nousette",
+            "nousette",
+            "nousevat",
+            "noustaan"
+        ],
+        "preesens_neg": [
+            "en nouse",
+            "et nouse",
+            "ei nouse",
+            "emme nouse",
+            "ette nouse",
+            "ette nouse",
+            "eivät nouse",
+            "ei nousta"
+        ],
+        "imperfekti": [
+            "nousin",
+            "nousit",
+            "nousi",
+            "nousimme",
+            "nousitte",
+            "nousitte",
+            "nousivat",
+            "noustiin"
+        ],
+        "imperfekti_neg": [
+            "en noussut",
+            "et noussut",
+            "ei noussut",
+            "emme nousseet",
+            "ette nousseet",
+            "ette noussut",
+            "eivät nousseet",
+            "ei noustu"
+        ],
+        "perfekti": [
+            "olen noussut",
+            "olet noussut",
+            "on noussut",
+            "olemme nousseet",
+            "olette nousseet",
+            "olette noussut",
+            "ovat nousseet",
+            "on noustu"
+        ],
+        "perfekti_neg": [
+            "en ole noussut",
+            "et ole noussut",
+            "ei ole noussut",
+            "emme ole nousseet",
+            "ette ole nousseet",
+            "ette ole noussut",
+            "eivät ole nousseet",
+            "ei ole noustu"
+        ],
+        "pluskvamperfekti": [
+            "olin noussut",
+            "olit noussut",
+            "oli noussut",
+            "olimme nousseet",
+            "olitte nousseet",
+            "olitte noussut",
+            "olivat nousseet",
+            "oli noustu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut noussut",
+            "et ollut noussut",
+            "ei ollut noussut",
+            "emme olleet nousseet",
+            "ette olleet nousseet",
+            "ette ollut noussut",
+            "eivät olleet nousseet",
+            "ei ollut noustu"
+        ]
+    },
+    "nukkua": {
+        "preesens": [
+            "nukun",
+            "nukut",
+            "nukkuu",
+            "nukumme",
+            "nukutte",
+            "nukutte",
+            "nukkuvat",
+            "nukutaan"
+        ],
+        "preesens_neg": [
+            "en nuku",
+            "et nuku",
+            "ei nuku",
+            "emme nuku",
+            "ette nuku",
+            "ette nuku",
+            "eivät nuku",
+            "ei nukuta"
+        ],
+        "imperfekti": [
+            "nukuin",
+            "nukuit",
+            "nukkui",
+            "nukuimme",
+            "nukuitte",
+            "nukuitte",
+            "nukkuivat",
+            "nukuttiin"
+        ],
+        "imperfekti_neg": [
+            "en nukkunut",
+            "et nukkunut",
+            "ei nukkunut",
+            "emme nukkuneet",
+            "ette nukkuneet",
+            "ette nukkunut",
+            "eivät nukkuneet",
+            "ei nukuttu"
+        ],
+        "perfekti": [
+            "olen nukkunut",
+            "olet nukkunut",
+            "on nukkunut",
+            "olemme nukkuneet",
+            "olette nukkuneet",
+            "olette nukkunut",
+            "ovat nukkuneet",
+            "on nukuttu"
+        ],
+        "perfekti_neg": [
+            "en ole nukkunut",
+            "et ole nukkunut",
+            "ei ole nukkunut",
+            "emme ole nukkuneet",
+            "ette ole nukkuneet",
+            "ette ole nukkunut",
+            "eivät ole nukkuneet",
+            "ei ole nukuttu"
+        ],
+        "pluskvamperfekti": [
+            "olin nukkunut",
+            "olit nukkunut",
+            "oli nukkunut",
+            "olimme nukkuneet",
+            "olitte nukkuneet",
+            "olitte nukkunut",
+            "olivat nukkuneet",
+            "oli nukuttu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut nukkunut",
+            "et ollut nukkunut",
+            "ei ollut nukkunut",
+            "emme olleet nukkuneet",
+            "ette olleet nukkuneet",
+            "ette ollut nukkunut",
+            "eivät olleet nukkuneet",
+            "ei ollut nukuttu"
+        ]
+    },
+    "nähdä": {
+        "preesens": [
+            "näen",
+            "näet",
+            "näkee",
+            "näemme",
+            "näette",
+            "näette",
+            "näkevät",
+            "nähdään"
+        ],
+        "preesens_neg": [
+            "en näe",
+            "et näe",
+            "ei näe",
+            "emme näe",
+            "ette näe",
+            "ette näe",
+            "eivät näe",
+            "ei nähdä"
+        ],
+        "imperfekti": [
+            "näin",
+            "näit",
+            "näki",
+            "näimme",
+            "näitte",
+            "näitte",
+            "näkivät",
+            "nähtiin"
+        ],
+        "imperfekti_neg": [
+            "en nähnyt",
+            "et nähnyt",
+            "ei nähnyt",
+            "emme nähneet",
+            "ette nähneet",
+            "ette nähnyt",
+            "eivät nähneet",
+            "ei nähty"
+        ],
+        "perfekti": [
+            "olen nähnyt",
+            "olet nähnyt",
+            "on nähnyt",
+            "olemme nähneet",
+            "olette nähneet",
+            "olette nähnyt",
+            "ovat nähneet",
+            "on nähty"
+        ],
+        "perfekti_neg": [
+            "en ole nähnyt",
+            "et ole nähnyt",
+            "ei ole nähnyt",
+            "emme ole nähneet",
+            "ette ole nähneet",
+            "ette ole nähnyt",
+            "eivät ole nähneet",
+            "ei ole nähty"
+        ],
+        "pluskvamperfekti": [
+            "olin nähnyt",
+            "olit nähnyt",
+            "oli nähnyt",
+            "olimme nähneet",
+            "olitte nähneet",
+            "olitte nähnyt",
+            "olivat nähneet",
+            "oli nähty"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut nähnyt",
+            "et ollut nähnyt",
+            "ei ollut nähnyt",
+            "emme olleet nähneet",
+            "ette olleet nähneet",
+            "ette ollut nähnyt",
+            "eivät olleet nähneet",
+            "ei ollut nähty"
+        ]
+    },
+    "näyttää": {
+        "preesens": [
+            "näytän",
+            "näytät",
+            "näyttää",
+            "näytämme",
+            "näytätte",
+            "näytätte",
+            "näyttävät",
+            "näytetään"
+        ],
+        "preesens_neg": [
+            "en näytä",
+            "et näytä",
+            "ei näytä",
+            "emme näytä",
+            "ette näytä",
+            "ette näytä",
+            "eivät näytä",
+            "ei näytetä"
+        ],
+        "imperfekti": [
+            "näytin",
+            "näytit",
+            "näytti",
+            "näytimme",
+            "näytitte",
+            "näytitte",
+            "näyttivät",
+            "näytettiin"
+        ],
+        "imperfekti_neg": [
+            "en näyttänyt",
+            "et näyttänyt",
+            "ei näyttänyt",
+            "emme näyttäneet",
+            "ette näyttäneet",
+            "ette näyttänyt",
+            "eivät näyttäneet",
+            "ei näytetty"
+        ],
+        "perfekti": [
+            "olen näyttänyt",
+            "olet näyttänyt",
+            "on näyttänyt",
+            "olemme näyttäneet",
+            "olette näyttäneet",
+            "olette näyttänyt",
+            "ovat näyttäneet",
+            "on näytetty"
+        ],
+        "perfekti_neg": [
+            "en ole näyttänyt",
+            "et ole näyttänyt",
+            "ei ole näyttänyt",
+            "emme ole näyttäneet",
+            "ette ole näyttäneet",
+            "ette ole näyttänyt",
+            "eivät ole näyttäneet",
+            "ei ole näytetty"
+        ],
+        "pluskvamperfekti": [
+            "olin näyttänyt",
+            "olit näyttänyt",
+            "oli näyttänyt",
+            "olimme näyttäneet",
+            "olitte näyttäneet",
+            "olitte näyttänyt",
+            "olivat näyttäneet",
+            "oli näytetty"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut näyttänyt",
+            "et ollut näyttänyt",
+            "ei ollut näyttänyt",
+            "emme olleet näyttäneet",
+            "ette olleet näyttäneet",
+            "ette ollut näyttänyt",
+            "eivät olleet näyttäneet",
+            "ei ollut näytetty"
+        ]
+    },
+    "odottaa": {
+        "preesens": [
+            "odotan",
+            "odotat",
+            "odottaa",
+            "odotamme",
+            "odotatte",
+            "odotatte",
+            "odottavat",
+            "odotetaan"
+        ],
+        "preesens_neg": [
+            "en odota",
+            "et odota",
+            "ei odota",
+            "emme odota",
+            "ette odota",
+            "ette odota",
+            "eivät odota",
+            "ei odoteta"
+        ],
+        "imperfekti": [
+            "odotin",
+            "odotit",
+            "odotti",
+            "odotimme",
+            "odotitte",
+            "odotitte",
+            "odottivat",
+            "odotettiin"
+        ],
+        "imperfekti_neg": [
+            "en odottanut",
+            "et odottanut",
+            "ei odottanut",
+            "emme odottaneet",
+            "ette odottaneet",
+            "ette odottanut",
+            "eivät odottaneet",
+            "ei odotettu"
+        ],
+        "perfekti": [
+            "olen odottanut",
+            "olet odottanut",
+            "on odottanut",
+            "olemme odottaneet",
+            "olette odottaneet",
+            "olette odottanut",
+            "ovat odottaneet",
+            "on odotettu"
+        ],
+        "perfekti_neg": [
+            "en ole odottanut",
+            "et ole odottanut",
+            "ei ole odottanut",
+            "emme ole odottaneet",
+            "ette ole odottaneet",
+            "ette ole odottanut",
+            "eivät ole odottaneet",
+            "ei ole odotettu"
+        ],
+        "pluskvamperfekti": [
+            "olin odottanut",
+            "olit odottanut",
+            "oli odottanut",
+            "olimme odottaneet",
+            "olitte odottaneet",
+            "olitte odottanut",
+            "olivat odottaneet",
+            "oli odotettu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut odottanut",
+            "et ollut odottanut",
+            "ei ollut odottanut",
+            "emme olleet odottaneet",
+            "ette olleet odottaneet",
+            "ette ollut odottanut",
+            "eivät olleet odottaneet",
+            "ei ollut odotettu"
+        ]
+    },
+    "olla": {
+        "preesens": [
+            "olen",
+            "olet",
+            "on",
+            "olemme",
+            "olette",
+            "olette",
+            "ovat",
+            "ollaan"
+        ],
+        "preesens_neg": [
+            "en ole",
+            "et ole",
+            "ei ole",
+            "emme ole",
+            "ette ole",
+            "ette ole",
+            "eivät ole",
+            "ei olla"
+        ],
+        "imperfekti": [
+            "olin",
+            "olit",
+            "oli",
+            "olimme",
+            "olitte",
+            "olitte",
+            "olivat",
+            "oltiin"
+        ],
+        "imperfekti_neg": [
+            "en ollut",
+            "et ollut",
+            "ei ollut",
+            "emme olleet",
+            "ette olleet",
+            "ette ollut",
+            "eivät olleet",
+            "ei oltu"
+        ],
+        "perfekti": [
+            "olen ollut",
+            "olet ollut",
+            "on ollut",
+            "olemme olleet",
+            "olette olleet",
+            "olette ollut",
+            "ovat olleet",
+            "on oltu"
+        ],
+        "perfekti_neg": [
+            "en ole ollut",
+            "et ole ollut",
+            "ei ole ollut",
+            "emme ole olleet",
+            "ette ole olleet",
+            "ette ole ollut",
+            "eivät ole olleet",
+            "ei ole oltu"
+        ],
+        "pluskvamperfekti": [
+            "olin ollut",
+            "olit ollut",
+            "oli ollut",
+            "olimme olleet",
+            "olitte olleet",
+            "olitte ollut",
+            "olivat olleet",
+            "oli oltu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut ollut",
+            "et ollut ollut",
+            "ei ollut ollut",
+            "emme olleet olleet",
+            "ette olleet olleet",
+            "ette ollut ollut",
+            "eivät olleet olleet",
+            "ei ollut oltu"
+        ]
+    },
+    "opiskella": {
+        "preesens": [
+            "opiskelen",
+            "opiskelet",
+            "opiskelee",
+            "opiskelemme",
+            "opiskelette",
+            "opiskelette",
+            "opiskelevat",
+            "opiskellaan"
+        ],
+        "preesens_neg": [
+            "en opiskele",
+            "et opiskele",
+            "ei opiskele",
+            "emme opiskele",
+            "ette opiskele",
+            "ette opiskele",
+            "eivät opiskele",
+            "ei opiskella"
+        ],
+        "imperfekti": [
+            "opiskelin",
+            "opiskelit",
+            "opiskeli",
+            "opiskelimme",
+            "opiskelitte",
+            "opiskelitte",
+            "opiskelivat",
+            "opiskeltiin"
+        ],
+        "imperfekti_neg": [
+            "en opiskellut",
+            "et opiskellut",
+            "ei opiskellut",
+            "emme opiskelleet",
+            "ette opiskelleet",
+            "ette opiskellut",
+            "eivät opiskelleet",
+            "ei opiskeltu"
+        ],
+        "perfekti": [
+            "olen opiskellut",
+            "olet opiskellut",
+            "on opiskellut",
+            "olemme opiskelleet",
+            "olette opiskelleet",
+            "olette opiskellut",
+            "ovat opiskelleet",
+            "on opiskeltu"
+        ],
+        "perfekti_neg": [
+            "en ole opiskellut",
+            "et ole opiskellut",
+            "ei ole opiskellut",
+            "emme ole opiskelleet",
+            "ette ole opiskelleet",
+            "ette ole opiskellut",
+            "eivät ole opiskelleet",
+            "ei ole opiskeltu"
+        ],
+        "pluskvamperfekti": [
+            "olin opiskellut",
+            "olit opiskellut",
+            "oli opiskellut",
+            "olimme opiskelleet",
+            "olitte opiskelleet",
+            "olitte opiskellut",
+            "olivat opiskelleet",
+            "oli opiskeltu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut opiskellut",
+            "et ollut opiskellut",
+            "ei ollut opiskellut",
+            "emme olleet opiskelleet",
+            "ette olleet opiskelleet",
+            "ette ollut opiskellut",
+            "eivät olleet opiskelleet",
+            "ei ollut opiskeltu"
+        ]
+    },
+    "oppia": {
+        "preesens": [
+            "opin",
+            "opit",
+            "oppii",
+            "opimme",
+            "opitte",
+            "opitte",
+            "oppivat",
+            "opitaan"
+        ],
+        "preesens_neg": [
+            "en opi",
+            "et opi",
+            "ei opi",
+            "emme opi",
+            "ette opi",
+            "ette opi",
+            "eivät opi",
+            "ei opita"
+        ],
+        "imperfekti": [
+            "opin",
+            "opit",
+            "oppi",
+            "opimme",
+            "opitte",
+            "opitte",
+            "oppivat",
+            "opittiin"
+        ],
+        "imperfekti_neg": [
+            "en oppinut",
+            "et oppinut",
+            "ei oppinut",
+            "emme oppineet",
+            "ette oppineet",
+            "ette oppinut",
+            "eivät oppineet",
+            "ei opittu"
+        ],
+        "perfekti": [
+            "olen oppinut",
+            "olet oppinut",
+            "on oppinut",
+            "olemme oppineet",
+            "olette oppineet",
+            "olette oppinut",
+            "ovat oppineet",
+            "on opittu"
+        ],
+        "perfekti_neg": [
+            "en ole oppinut",
+            "et ole oppinut",
+            "ei ole oppinut",
+            "emme ole oppineet",
+            "ette ole oppineet",
+            "ette ole oppinut",
+            "eivät ole oppineet",
+            "ei ole opittu"
+        ],
+        "pluskvamperfekti": [
+            "olin oppinut",
+            "olit oppinut",
+            "oli oppinut",
+            "olimme oppineet",
+            "olitte oppineet",
+            "olitte oppinut",
+            "olivat oppineet",
+            "oli opittu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut oppinut",
+            "et ollut oppinut",
+            "ei ollut oppinut",
+            "emme olleet oppineet",
+            "ette olleet oppineet",
+            "ette ollut oppinut",
+            "eivät olleet oppineet",
+            "ei ollut opittu"
+        ]
+    },
+    "opettaa": {
+        "preesens": [
+            "opetan",
+            "opetat",
+            "opettaa",
+            "opetamme",
+            "opetatte",
+            "opetatte",
+            "opettavat",
+            "opetetaan"
+        ],
+        "preesens_neg": [
+            "en opeta",
+            "et opeta",
+            "ei opeta",
+            "emme opeta",
+            "ette opeta",
+            "ette opeta",
+            "eivät opeta",
+            "ei opeteta"
+        ],
+        "imperfekti": [
+            "opetin",
+            "opetit",
+            "opetti",
+            "opetimme",
+            "opetitte",
+            "opetitte",
+            "opettivat",
+            "opetettiin"
+        ],
+        "imperfekti_neg": [
+            "en opettanut",
+            "et opettanut",
+            "ei opettanut",
+            "emme opettaneet",
+            "ette opettaneet",
+            "ette opettanut",
+            "eivät opettaneet",
+            "ei opetettu"
+        ],
+        "perfekti": [
+            "olen opettanut",
+            "olet opettanut",
+            "on opettanut",
+            "olemme opettaneet",
+            "olette opettaneet",
+            "olette opettanut",
+            "ovat opettaneet",
+            "on opetettu"
+        ],
+        "perfekti_neg": [
+            "en ole opettanut",
+            "et ole opettanut",
+            "ei ole opettanut",
+            "emme ole opettaneet",
+            "ette ole opettaneet",
+            "ette ole opettanut",
+            "eivät ole opettaneet",
+            "ei ole opetettu"
+        ],
+        "pluskvamperfekti": [
+            "olin opettanut",
+            "olit opettanut",
+            "oli opettanut",
+            "olimme opettaneet",
+            "olitte opettaneet",
+            "olitte opettanut",
+            "olivat opettaneet",
+            "oli opetettu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut opettanut",
+            "et ollut opettanut",
+            "ei ollut opettanut",
+            "emme olleet opettaneet",
+            "ette olleet opettaneet",
+            "ette ollut opettanut",
+            "eivät olleet opettaneet",
+            "ei ollut opetettu"
+        ]
+    },
+    "ostaa": {
+        "preesens": [
+            "ostan",
+            "ostat",
+            "ostaa",
+            "ostamme",
+            "ostatte",
+            "ostatte",
+            "ostavat",
+            "ostetaan"
+        ],
+        "preesens_neg": [
+            "en osta",
+            "et osta",
+            "ei osta",
+            "emme osta",
+            "ette osta",
+            "ette osta",
+            "eivät osta",
+            "ei osteta"
+        ],
+        "imperfekti": [
+            "ostin",
+            "ostit",
+            "osti",
+            "ostimme",
+            "ostitte",
+            "ostitte",
+            "ostivat",
+            "ostettiin"
+        ],
+        "imperfekti_neg": [
+            "en ostanut",
+            "et ostanut",
+            "ei ostanut",
+            "emme ostaneet",
+            "ette ostaneet",
+            "ette ostanut",
+            "eivät ostaneet",
+            "ei ostettu"
+        ],
+        "perfekti": [
+            "olen ostanut",
+            "olet ostanut",
+            "on ostanut",
+            "olemme ostaneet",
+            "olette ostaneet",
+            "olette ostanut",
+            "ovat ostaneet",
+            "on ostettu"
+        ],
+        "perfekti_neg": [
+            "en ole ostanut",
+            "et ole ostanut",
+            "ei ole ostanut",
+            "emme ole ostaneet",
+            "ette ole ostaneet",
+            "ette ole ostanut",
+            "eivät ole ostaneet",
+            "ei ole ostettu"
+        ],
+        "pluskvamperfekti": [
+            "olin ostanut",
+            "olit ostanut",
+            "oli ostanut",
+            "olimme ostaneet",
+            "olitte ostaneet",
+            "olitte ostanut",
+            "olivat ostaneet",
+            "oli ostettu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut ostanut",
+            "et ollut ostanut",
+            "ei ollut ostanut",
+            "emme olleet ostaneet",
+            "ette olleet ostaneet",
+            "ette ollut ostanut",
+            "eivät olleet ostaneet",
+            "ei ollut ostettu"
+        ]
+    },
+    "ottaa": {
+        "preesens": [
+            "otan",
+            "otat",
+            "ottaa",
+            "otamme",
+            "otatte",
+            "otatte",
+            "ottavat",
+            "otetaan"
+        ],
+        "preesens_neg": [
+            "en ota",
+            "et ota",
+            "ei ota",
+            "emme ota",
+            "ette ota",
+            "ette ota",
+            "eivät ota",
+            "ei oteta"
+        ],
+        "imperfekti": [
+            "otin",
+            "otit",
+            "otti",
+            "otimme",
+            "otitte",
+            "otitte",
+            "ottivat",
+            "otettiin"
+        ],
+        "imperfekti_neg": [
+            "en ottanut",
+            "et ottanut",
+            "ei ottanut",
+            "emme ottaneet",
+            "ette ottaneet",
+            "ette ottanut",
+            "eivät ottaneet",
+            "ei otettu"
+        ],
+        "perfekti": [
+            "olen ottanut",
+            "olet ottanut",
+            "on ottanut",
+            "olemme ottaneet",
+            "olette ottaneet",
+            "olette ottanut",
+            "ovat ottaneet",
+            "on otettu"
+        ],
+        "perfekti_neg": [
+            "en ole ottanut",
+            "et ole ottanut",
+            "ei ole ottanut",
+            "emme ole ottaneet",
+            "ette ole ottaneet",
+            "ette ole ottanut",
+            "eivät ole ottaneet",
+            "ei ole otettu"
+        ],
+        "pluskvamperfekti": [
+            "olin ottanut",
+            "olit ottanut",
+            "oli ottanut",
+            "olimme ottaneet",
+            "olitte ottaneet",
+            "olitte ottanut",
+            "olivat ottaneet",
+            "oli otettu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut ottanut",
+            "et ollut ottanut",
+            "ei ollut ottanut",
+            "emme olleet ottaneet",
+            "ette olleet ottaneet",
+            "ette ollut ottanut",
+            "eivät olleet ottaneet",
+            "ei ollut otettu"
+        ]
+    },
+    "palata": {
+        "preesens": [
+            "palaan",
+            "palaat",
+            "palaa",
+            "palaamme",
+            "palaatte",
+            "palaatte",
+            "palaavat",
+            "palataan"
+        ],
+        "preesens_neg": [
+            "en palaa",
+            "et palaa",
+            "ei palaa",
+            "emme palaa",
+            "ette palaa",
+            "ette palaa",
+            "eivät palaa",
+            "ei palata"
+        ],
+        "imperfekti": [
+            "palasin",
+            "palasit",
+            "palasi",
+            "palasimme",
+            "palasitte",
+            "palasitte",
+            "palasivat",
+            "palattiin"
+        ],
+        "imperfekti_neg": [
+            "en palannut",
+            "et palannut",
+            "ei palannut",
+            "emme palanneet",
+            "ette palanneet",
+            "ette palannut",
+            "eivät palanneet",
+            "ei palattu"
+        ],
+        "perfekti": [
+            "olen palannut",
+            "olet palannut",
+            "on palannut",
+            "olemme palanneet",
+            "olette palanneet",
+            "olette palannut",
+            "ovat palanneet",
+            "on palattu"
+        ],
+        "perfekti_neg": [
+            "en ole palannut",
+            "et ole palannut",
+            "ei ole palannut",
+            "emme ole palanneet",
+            "ette ole palanneet",
+            "ette ole palannut",
+            "eivät ole palanneet",
+            "ei ole palattu"
+        ],
+        "pluskvamperfekti": [
+            "olin palannut",
+            "olit palannut",
+            "oli palannut",
+            "olimme palanneet",
+            "olitte palanneet",
+            "olitte palannut",
+            "olivat palanneet",
+            "oli palattu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut palannut",
+            "et ollut palannut",
+            "ei ollut palannut",
+            "emme olleet palanneet",
+            "ette olleet palanneet",
+            "ette ollut palannut",
+            "eivät olleet palanneet",
+            "ei ollut palattu"
+        ]
+    },
+    "pelata": {
+        "preesens": [
+            "pelaan",
+            "pelaat",
+            "pelaa",
+            "pelaamme",
+            "pelaatte",
+            "pelaatte",
+            "pelaavat",
+            "pelataan"
+        ],
+        "preesens_neg": [
+            "en pelaa",
+            "et pelaa",
+            "ei pelaa",
+            "emme pelaa",
+            "ette pelaa",
+            "ette pelaa",
+            "eivät pelaa",
+            "ei pelata"
+        ],
+        "imperfekti": [
+            "pelasin",
+            "pelasit",
+            "pelasi",
+            "pelasimme",
+            "pelasitte",
+            "pelasitte",
+            "pelasivat",
+            "pelattiin"
+        ],
+        "imperfekti_neg": [
+            "en pelannut",
+            "et pelannut",
+            "ei pelannut",
+            "emme pelanneet",
+            "ette pelanneet",
+            "ette pelannut",
+            "eivät pelanneet",
+            "ei pelattu"
+        ],
+        "perfekti": [
+            "olen pelannut",
+            "olet pelannut",
+            "on pelannut",
+            "olemme pelanneet",
+            "olette pelanneet",
+            "olette pelannut",
+            "ovat pelanneet",
+            "on pelattu"
+        ],
+        "perfekti_neg": [
+            "en ole pelannut",
+            "et ole pelannut",
+            "ei ole pelannut",
+            "emme ole pelanneet",
+            "ette ole pelanneet",
+            "ette ole pelannut",
+            "eivät ole pelanneet",
+            "ei ole pelattu"
+        ],
+        "pluskvamperfekti": [
+            "olin pelannut",
+            "olit pelannut",
+            "oli pelannut",
+            "olimme pelanneet",
+            "olitte pelanneet",
+            "olitte pelannut",
+            "olivat pelanneet",
+            "oli pelattu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut pelannut",
+            "et ollut pelannut",
+            "ei ollut pelannut",
+            "emme olleet pelanneet",
+            "ette olleet pelanneet",
+            "ette ollut pelannut",
+            "eivät olleet pelanneet",
+            "ei ollut pelattu"
+        ]
+    },
+    "pelätä": {
+        "preesens": [
+            "pelkään",
+            "pelkäät",
+            "pelkää",
+            "pelkäämme",
+            "pelkäätte",
+            "pelkäätte",
+            "pelkäävät",
+            "pelätään"
+        ],
+        "preesens_neg": [
+            "en pelkää",
+            "et pelkää",
+            "ei pelkää",
+            "emme pelkää",
+            "ette pelkää",
+            "ette pelkää",
+            "eivät pelkää",
+            "ei pelätä"
+        ],
+        "imperfekti": [
+            "pelkäsin",
+            "pelkäsit",
+            "pelkäsi",
+            "pelkäsimme",
+            "pelkäsitte",
+            "pelkäsitte",
+            "pelkäsivät",
+            "pelättiin"
+        ],
+        "imperfekti_neg": [
+            "en pelännyt",
+            "et pelännyt",
+            "ei pelännyt",
+            "emme pelänneet",
+            "ette pelänneet",
+            "ette pelännyt",
+            "eivät pelänneet",
+            "ei pelätty"
+        ],
+        "perfekti": [
+            "olen pelännyt",
+            "olet pelännyt",
+            "on pelännyt",
+            "olemme pelänneet",
+            "olette pelänneet",
+            "olette pelännyt",
+            "ovat pelänneet",
+            "on pelätty"
+        ],
+        "perfekti_neg": [
+            "en ole pelännyt",
+            "et ole pelännyt",
+            "ei ole pelännyt",
+            "emme ole pelänneet",
+            "ette ole pelänneet",
+            "ette ole pelännyt",
+            "eivät ole pelänneet",
+            "ei ole pelätty"
+        ],
+        "pluskvamperfekti": [
+            "olin pelännyt",
+            "olit pelännyt",
+            "oli pelännyt",
+            "olimme pelänneet",
+            "olitte pelänneet",
+            "olitte pelännyt",
+            "olivat pelänneet",
+            "oli pelätty"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut pelännyt",
+            "et ollut pelännyt",
+            "ei ollut pelännyt",
+            "emme olleet pelänneet",
+            "ette olleet pelänneet",
+            "ette ollut pelännyt",
+            "eivät olleet pelänneet",
+            "ei ollut pelätty"
+        ]
+    },
+    "pitää": {
+        "preesens": [
+            "pidän",
+            "pidät",
+            "pitää",
+            "pidämme",
+            "pidätte",
+            "pidätte",
+            "pitävät",
+            "pidetään"
+        ],
+        "preesens_neg": [
+            "en pidä",
+            "et pidä",
+            "ei pidä",
+            "emme pidä",
+            "ette pidä",
+            "ette pidä",
+            "eivät pidä",
+            "ei pidetä"
+        ],
+        "imperfekti": [
+            "pidin",
+            "pidit",
+            "piti",
+            "pidimme",
+            "piditte",
+            "piditte",
+            "pitivät",
+            "pidettiin"
+        ],
+        "imperfekti_neg": [
+            "en pitänyt",
+            "et pitänyt",
+            "ei pitänyt",
+            "emme pitäneet",
+            "ette pitäneet",
+            "ette pitänyt",
+            "eivät pitäneet",
+            "ei pidetty"
+        ],
+        "perfekti": [
+            "olen pitänyt",
+            "olet pitänyt",
+            "on pitänyt",
+            "olemme pitäneet",
+            "olette pitäneet",
+            "olette pitänyt",
+            "ovat pitäneet",
+            "on pidetty"
+        ],
+        "perfekti_neg": [
+            "en ole pitänyt",
+            "et ole pitänyt",
+            "ei ole pitänyt",
+            "emme ole pitäneet",
+            "ette ole pitäneet",
+            "ette ole pitänyt",
+            "eivät ole pitäneet",
+            "ei ole pidetty"
+        ],
+        "pluskvamperfekti": [
+            "olin pitänyt",
+            "olit pitänyt",
+            "oli pitänyt",
+            "olimme pitäneet",
+            "olitte pitäneet",
+            "olitte pitänyt",
+            "olivat pitäneet",
+            "oli pidetty"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut pitänyt",
+            "et ollut pitänyt",
+            "ei ollut pitänyt",
+            "emme olleet pitäneet",
+            "ette olleet pitäneet",
+            "ette ollut pitänyt",
+            "eivät olleet pitäneet",
+            "ei ollut pidetty"
+        ]
+    },
+    "puhua": {
+        "preesens": [
+            "puhun",
+            "puhut",
+            "puhuu",
+            "puhumme",
+            "puhutte",
+            "puhutte",
+            "puhuvat",
+            "puhutaan"
+        ],
+        "preesens_neg": [
+            "en puhu",
+            "et puhu",
+            "ei puhu",
+            "emme puhu",
+            "ette puhu",
+            "ette puhu",
+            "eivät puhu",
+            "ei puhuta"
+        ],
+        "imperfekti": [
+            "puhuin",
+            "puhuit",
+            "puhui",
+            "puhuimme",
+            "puhuitte",
+            "puhuitte",
+            "puhuivat",
+            "puhuttiin"
+        ],
+        "imperfekti_neg": [
+            "en puhunut",
+            "et puhunut",
+            "ei puhunut",
+            "emme puhuneet",
+            "ette puhuneet",
+            "ette puhunut",
+            "eivät puhuneet",
+            "ei puhuttu"
+        ],
+        "perfekti": [
+            "olen puhunut",
+            "olet puhunut",
+            "on puhunut",
+            "olemme puhuneet",
+            "olette puhuneet",
+            "olette puhunut",
+            "ovat puhuneet",
+            "on puhuttu"
+        ],
+        "perfekti_neg": [
+            "en ole puhunut",
+            "et ole puhunut",
+            "ei ole puhunut",
+            "emme ole puhuneet",
+            "ette ole puhuneet",
+            "ette ole puhunut",
+            "eivät ole puhuneet",
+            "ei ole puhuttu"
+        ],
+        "pluskvamperfekti": [
+            "olin puhunut",
+            "olit puhunut",
+            "oli puhunut",
+            "olimme puhuneet",
+            "olitte puhuneet",
+            "olitte puhunut",
+            "olivat puhuneet",
+            "oli puhuttu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut puhunut",
+            "et ollut puhunut",
+            "ei ollut puhunut",
+            "emme olleet puhuneet",
+            "ette olleet puhuneet",
+            "ette ollut puhunut",
+            "eivät olleet puhuneet",
+            "ei ollut puhuttu"
+        ]
+    },
+    "purra": {
+        "preesens": [
+            "puren",
+            "puret",
+            "puree",
+            "puremme",
+            "purette",
+            "purette",
+            "purevat",
+            "purraan"
+        ],
+        "preesens_neg": [
+            "en pure",
+            "et pure",
+            "ei pure",
+            "emme pure",
+            "ette pure",
+            "ette pure",
+            "eivät pure",
+            "ei purraa"
+        ],
+        "imperfekti": [
+            "purin",
+            "purit",
+            "puri",
+            "purimme",
+            "puritte",
+            "puritte",
+            "purivat",
+            "purrtiin"
+        ],
+        "imperfekti_neg": [
+            "en purrut",
+            "et purrut",
+            "ei purrut",
+            "emme purreet",
+            "ette purreet",
+            "ette purrut",
+            "eivät purreet",
+            "ei purtu"
+        ],
+        "perfekti": [
+            "olen purrut",
+            "olet purrut",
+            "on purrut",
+            "olemme purreet",
+            "olette purreet",
+            "olette purrut",
+            "ovat purreet",
+            "on purtu"
+        ],
+        "perfekti_neg": [
+            "en ole purrut",
+            "et ole purrut",
+            "ei ole purrut",
+            "emme ole purreet",
+            "ette ole purreet",
+            "ette ole purrut",
+            "eivät ole purreet",
+            "ei ole purtu"
+        ],
+        "pluskvamperfekti": [
+            "olin purrut",
+            "olit purrut",
+            "oli purrut",
+            "olimme purreet",
+            "olitte purreet",
+            "olitte purrut",
+            "olivat purreet",
+            "oli purtu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut purrut",
+            "et ollut purrut",
+            "ei ollut purrut",
+            "emme olleet purreet",
+            "ette olleet purreet",
+            "ette ollut purrut",
+            "eivät olleet purreet",
+            "ei ollut purtu"
+        ]
+    },
+    "pyytää": {
+        "preesens": [
+            "pyydän",
+            "pyydät",
+            "pyytää",
+            "pyydämme",
+            "pyydätte",
+            "pyydätte",
+            "pyytävät",
+            "pyydetään"
+        ],
+        "preesens_neg": [
+            "en pyydä",
+            "et pyydä",
+            "ei pyydä",
+            "emme pyydä",
+            "ette pyydä",
+            "ette pyydä",
+            "eivät pyydä",
+            "ei pyydetä"
+        ],
+        "imperfekti": [
+            "pyysin",
+            "pyysit",
+            "pyysi",
+            "pyysimme",
+            "pyysitte",
+            "pyysitte",
+            "pyysivät",
+            "pyydettiin"
+        ],
+        "imperfekti_neg": [
+            "en pyytänyt",
+            "et pyytänyt",
+            "ei pyytänyt",
+            "emme pyytäneet",
+            "ette pyytäneet",
+            "ette pyytänyt",
+            "eivät pyytäneet",
+            "ei pyydetty"
+        ],
+        "perfekti": [
+            "olen pyytänyt",
+            "olet pyytänyt",
+            "on pyytänyt",
+            "olemme pyytäneet",
+            "olette pyytäneet",
+            "olette pyytänyt",
+            "ovat pyytäneet",
+            "on pyydetty"
+        ],
+        "perfekti_neg": [
+            "en ole pyytänyt",
+            "et ole pyytänyt",
+            "ei ole pyytänyt",
+            "emme ole pyytäneet",
+            "ette ole pyytäneet",
+            "ette ole pyytänyt",
+            "eivät ole pyytäneet",
+            "ei ole pyydetty"
+        ],
+        "pluskvamperfekti": [
+            "olin pyytänyt",
+            "olit pyytänyt",
+            "oli pyytänyt",
+            "olimme pyytäneet",
+            "olitte pyytäneet",
+            "olitte pyytänyt",
+            "olivat pyytäneet",
+            "oli pyydetty"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut pyytänyt",
+            "et ollut pyytänyt",
+            "ei ollut pyytänyt",
+            "emme olleet pyytäneet",
+            "ette olleet pyytäneet",
+            "ette ollut pyytänyt",
+            "eivät olleet pyytäneet",
+            "ei ollut pyydetty"
+        ]
+    },
+    "päättää": {
+        "preesens": [
+            "päätän",
+            "päätät",
+            "päättää",
+            "päätämme",
+            "päätätte",
+            "päätätte",
+            "päättävät",
+            "päätetään"
+        ],
+        "preesens_neg": [
+            "en päätä",
+            "et päätä",
+            "ei päätä",
+            "emme päätä",
+            "ette päätä",
+            "ette päätä",
+            "eivät päätä",
+            "ei päätetä"
+        ],
+        "imperfekti": [
+            "päätin",
+            "päätit",
+            "päätti",
+            "päätimme",
+            "päätitte",
+            "päätitte",
+            "päättivät",
+            "päätettiin"
+        ],
+        "imperfekti_neg": [
+            "en päättänyt",
+            "et päättänyt",
+            "ei päättänyt",
+            "emme päättäneet",
+            "ette päättäneet",
+            "ette päättänyt",
+            "eivät päättäneet",
+            "ei päätetty"
+        ],
+        "perfekti": [
+            "olen päättänyt",
+            "olet päättänyt",
+            "on päättänyt",
+            "olemme päättäneet",
+            "olette päättäneet",
+            "olette päättänyt",
+            "ovat päättäneet",
+            "on päätetty"
+        ],
+        "perfekti_neg": [
+            "en ole päättänyt",
+            "et ole päättänyt",
+            "ei ole päättänyt",
+            "emme ole päättäneet",
+            "ette ole päättäneet",
+            "ette ole päättänyt",
+            "eivät ole päättäneet",
+            "ei ole päätetty"
+        ],
+        "pluskvamperfekti": [
+            "olin päättänyt",
+            "olit päättänyt",
+            "oli päättänyt",
+            "olimme päättäneet",
+            "olitte päättäneet",
+            "olitte päättänyt",
+            "olivat päättäneet",
+            "oli päätetty"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut päättänyt",
+            "et ollut päättänyt",
+            "ei ollut päättänyt",
+            "emme olleet päättäneet",
+            "ette olleet päättäneet",
+            "ette ollut päättänyt",
+            "eivät olleet päättäneet",
+            "ei ollut päätetty"
+        ]
+    },
+    "rakastaa": {
+        "preesens": [
+            "rakastan",
+            "rakastat",
+            "rakastaa",
+            "rakastamme",
+            "rakastatte",
+            "rakastatte",
+            "rakastavat",
+            "rakastetaan"
+        ],
+        "preesens_neg": [
+            "en rakasta",
+            "et rakasta",
+            "ei rakasta",
+            "emme rakasta",
+            "ette rakasta",
+            "ette rakasta",
+            "eivät rakasta",
+            "ei rakasteta"
+        ],
+        "imperfekti": [
+            "rakastin",
+            "rakastit",
+            "rakasti",
+            "rakastimme",
+            "rakastitte",
+            "rakastitte",
+            "rakastivat",
+            "rakastettiin"
+        ],
+        "imperfekti_neg": [
+            "en rakastanut",
+            "et rakastanut",
+            "ei rakastanut",
+            "emme rakastaneet",
+            "ette rakastaneet",
+            "ette rakastanut",
+            "eivät rakastaneet",
+            "ei rakastettu"
+        ],
+        "perfekti": [
+            "olen rakastanut",
+            "olet rakastanut",
+            "on rakastanut",
+            "olemme rakastaneet",
+            "olette rakastaneet",
+            "olette rakastanut",
+            "ovat rakastaneet",
+            "on rakastettu"
+        ],
+        "perfekti_neg": [
+            "en ole rakastanut",
+            "et ole rakastanut",
+            "ei ole rakastanut",
+            "emme ole rakastaneet",
+            "ette ole rakastaneet",
+            "ette ole rakastanut",
+            "eivät ole rakastaneet",
+            "ei ole rakastettu"
+        ],
+        "pluskvamperfekti": [
+            "olin rakastanut",
+            "olit rakastanut",
+            "oli rakastanut",
+            "olimme rakastaneet",
+            "olitte rakastaneet",
+            "olitte rakastanut",
+            "olivat rakastaneet",
+            "oli rakastettu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut rakastanut",
+            "et ollut rakastanut",
+            "ei ollut rakastanut",
+            "emme olleet rakastaneet",
+            "ette olleet rakastaneet",
+            "ette ollut rakastanut",
+            "eivät olleet rakastaneet",
+            "ei ollut rakastettu"
+        ]
+    },
+    "rakentaa": {
+        "preesens": [
+            "rakennan",
+            "rakennat",
+            "rakentaa",
+            "rakennamme",
+            "rakennatte",
+            "rakennatte",
+            "rakentavat",
+            "rakennetaan"
+        ],
+        "preesens_neg": [
+            "en rakenna",
+            "et rakenna",
+            "ei rakenna",
+            "emme rakenna",
+            "ette rakenna",
+            "ette rakenna",
+            "eivät rakenna",
+            "ei rakenneta"
+        ],
+        "imperfekti": [
+            "rakensin",
+            "rakensit",
+            "rakensi",
+            "rakensimme",
+            "rakensitte",
+            "rakensitte",
+            "rakensivat",
+            "rakennettiin"
+        ],
+        "imperfekti_neg": [
+            "en rakentanut",
+            "et rakentanut",
+            "ei rakentanut",
+            "emme rakentaneet",
+            "ette rakentaneet",
+            "ette rakentanut",
+            "eivät rakentaneet",
+            "ei rakennettu"
+        ],
+        "perfekti": [
+            "olen rakentanut",
+            "olet rakentanut",
+            "on rakentanut",
+            "olemme rakentaneet",
+            "olette rakentaneet",
+            "olette rakentanut",
+            "ovat rakentaneet",
+            "on rakennettu"
+        ],
+        "perfekti_neg": [
+            "en ole rakentanut",
+            "et ole rakentanut",
+            "ei ole rakentanut",
+            "emme ole rakentaneet",
+            "ette ole rakentaneet",
+            "ette ole rakentanut",
+            "eivät ole rakentaneet",
+            "ei ole rakennettu"
+        ],
+        "pluskvamperfekti": [
+            "olin rakentanut",
+            "olit rakentanut",
+            "oli rakentanut",
+            "olimme rakentaneet",
+            "olitte rakentaneet",
+            "olitte rakentanut",
+            "olivat rakentaneet",
+            "oli rakennettu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut rakentanut",
+            "et ollut rakentanut",
+            "ei ollut rakentanut",
+            "emme olleet rakentaneet",
+            "ette olleet rakentaneet",
+            "ette ollut rakentanut",
+            "eivät olleet rakentaneet",
+            "ei ollut rakennettu"
+        ]
+    },
+    "saada": {
+        "preesens": [
+            "saan",
+            "saat",
+            "saa",
+            "saamme",
+            "saatte",
+            "saatte",
+            "saavat",
+            "saadaan"
+        ],
+        "preesens_neg": [
+            "en saa",
+            "et saa",
+            "ei saa",
+            "emme saa",
+            "ette saa",
+            "ette saa",
+            "eivät saa",
+            "ei saada"
+        ],
+        "imperfekti": [
+            "sain",
+            "sait",
+            "sai",
+            "saimme",
+            "saitte",
+            "saitte",
+            "saivat",
+            "saatiin"
+        ],
+        "imperfekti_neg": [
+            "en saanut",
+            "et saanut",
+            "ei saanut",
+            "emme saaneet",
+            "ette saaneet",
+            "ette saanut",
+            "eivät saaneet",
+            "ei saatu"
+        ],
+        "perfekti": [
+            "olen saanut",
+            "olet saanut",
+            "on saanut",
+            "olemme saaneet",
+            "olette saaneet",
+            "olette saanut",
+            "ovat saaneet",
+            "on saatu"
+        ],
+        "perfekti_neg": [
+            "en ole saanut",
+            "et ole saanut",
+            "ei ole saanut",
+            "emme ole saaneet",
+            "ette ole saaneet",
+            "ette ole saanut",
+            "eivät ole saaneet",
+            "ei ole saatu"
+        ],
+        "pluskvamperfekti": [
+            "olin saanut",
+            "olit saanut",
+            "oli saanut",
+            "olimme saaneet",
+            "olitte saaneet",
+            "olitte saanut",
+            "olivat saaneet",
+            "oli saatu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut saanut",
+            "et ollut saanut",
+            "ei ollut saanut",
+            "emme olleet saaneet",
+            "ette olleet saaneet",
+            "ette ollut saanut",
+            "eivät olleet saaneet",
+            "ei ollut saatu"
+        ]
+    },
+    "sanoa": {
+        "preesens": [
+            "sanon",
+            "sanot",
+            "sanoo",
+            "sanomme",
+            "sanotte",
+            "sanotte",
+            "sanovat",
+            "sanotaan"
+        ],
+        "preesens_neg": [
+            "en sano",
+            "et sano",
+            "ei sano",
+            "emme sano",
+            "ette sano",
+            "ette sano",
+            "eivät sano",
+            "ei sanota"
+        ],
+        "imperfekti": [
+            "sanoin",
+            "sanoit",
+            "sanoi",
+            "sanoimme",
+            "sanoitte",
+            "sanoitte",
+            "sanoivat",
+            "sanottiin"
+        ],
+        "imperfekti_neg": [
+            "en sanonut",
+            "et sanonut",
+            "ei sanonut",
+            "emme sanoneet",
+            "ette sanoneet",
+            "ette sanonut",
+            "eivät sanoneet",
+            "ei sanottu"
+        ],
+        "perfekti": [
+            "olen sanonut",
+            "olet sanonut",
+            "on sanonut",
+            "olemme sanoneet",
+            "olette sanoneet",
+            "olette sanonut",
+            "ovat sanoneet",
+            "on sanottu"
+        ],
+        "perfekti_neg": [
+            "en ole sanonut",
+            "et ole sanonut",
+            "ei ole sanonut",
+            "emme ole sanoneet",
+            "ette ole sanoneet",
+            "ette ole sanonut",
+            "eivät ole sanoneet",
+            "ei ole sanottu"
+        ],
+        "pluskvamperfekti": [
+            "olin sanonut",
+            "olit sanonut",
+            "oli sanonut",
+            "olimme sanoneet",
+            "olitte sanoneet",
+            "olitte sanonut",
+            "olivat sanoneet",
+            "oli sanottu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut sanonut",
+            "et ollut sanonut",
+            "ei ollut sanonut",
+            "emme olleet sanoneet",
+            "ette olleet sanoneet",
+            "ette ollut sanonut",
+            "eivät olleet sanoneet",
+            "ei ollut sanottu"
+        ]
+    },
+    "siivota": {
+        "preesens": [
+            "siivoan",
+            "siivoat",
+            "siivoaa",
+            "siivomme",
+            "siivoatte",
+            "siivoatte",
+            "siivoavat",
+            "siivotaan"
+        ],
+        "preesens_neg": [
+            "en siivoa",
+            "et siivoa",
+            "ei siivoa",
+            "emme siivoa",
+            "ette siivoa",
+            "ette siivoa",
+            "eivät siivoa",
+            "ei siivota"
+        ],
+        "imperfekti": [
+            "siivosin",
+            "siivosit",
+            "siivosi",
+            "siivosimme",
+            "siivositte",
+            "siivositte",
+            "siivosivat",
+            "siivottiin"
+        ],
+        "imperfekti_neg": [
+            "en siivonut",
+            "et siivonut",
+            "ei siivonut",
+            "emme siivonneet",
+            "ette siivonneet",
+            "ette siivonut",
+            "eivät siivonneet",
+            "ei siivottu"
+        ],
+        "perfekti": [
+            "olen siivonut",
+            "olet siivonut",
+            "on siivonut",
+            "olemme siivonneet",
+            "olette siivonneet",
+            "olette siivonut",
+            "ovat siivonneet",
+            "on siivottu"
+        ],
+        "perfekti_neg": [
+            "en ole siivonut",
+            "et ole siivonut",
+            "ei ole siivonut",
+            "emme ole siivonneet",
+            "ette ole siivonneet",
+            "ette ole siivonut",
+            "eivät ole siivonneet",
+            "ei ole siivottu"
+        ],
+        "pluskvamperfekti": [
+            "olin siivonut",
+            "olit siivonut",
+            "oli siivonut",
+            "olimme siivonneet",
+            "olitte siivonneet",
+            "olitte siivonut",
+            "olivat siivonneet",
+            "oli siivottu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut siivonut",
+            "et ollut siivonut",
+            "ei ollut siivonut",
+            "emme olleet siivonneet",
+            "ette olleet siivonneet",
+            "ette ollut siivonut",
+            "eivät olleet siivonneet",
+            "ei ollut siivottu"
+        ]
+    },
+    "soittaa": {
+        "preesens": [
+            "soitan",
+            "soitat",
+            "soittaa",
+            "soitamme",
+            "soitatte",
+            "soitatte",
+            "soittavat",
+            "soitetaan"
+        ],
+        "preesens_neg": [
+            "en soita",
+            "et soita",
+            "ei soita",
+            "emme soita",
+            "ette soita",
+            "ette soita",
+            "eivät soita",
+            "ei soiteta"
+        ],
+        "imperfekti": [
+            "soitin",
+            "soitit",
+            "soitti",
+            "soitimme",
+            "soititte",
+            "soititte",
+            "soittivat",
+            "soitettiin"
+        ],
+        "imperfekti_neg": [
+            "en soittanut",
+            "et soittanut",
+            "ei soittanut",
+            "emme soittaneet",
+            "ette soittaneet",
+            "ette soittanut",
+            "eivät soittaneet",
+            "ei soitettu"
+        ],
+        "perfekti": [
+            "olen soittanut",
+            "olet soittanut",
+            "on soittanut",
+            "olemme soittaneet",
+            "olette soittaneet",
+            "olette soittanut",
+            "ovat soittaneet",
+            "on soitettu"
+        ],
+        "perfekti_neg": [
+            "en ole soittanut",
+            "et ole soittanut",
+            "ei ole soittanut",
+            "emme ole soittaneet",
+            "ette ole soittaneet",
+            "ette ole soittanut",
+            "eivät ole soittaneet",
+            "ei ole soitettu"
+        ],
+        "pluskvamperfekti": [
+            "olin soittanut",
+            "olit soittanut",
+            "oli soittanut",
+            "olimme soittaneet",
+            "olitte soittaneet",
+            "olitte soittanut",
+            "olivat soittaneet",
+            "oli soitettu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut soittanut",
+            "et ollut soittanut",
+            "ei ollut soittanut",
+            "emme olleet soittaneet",
+            "ette olleet soittaneet",
+            "ette ollut soittanut",
+            "eivät olleet soittaneet",
+            "ei ollut soitettu"
+        ]
+    },
+    "sulkea": {
+        "preesens": [
+            "suljen",
+            "suljet",
+            "sulkee",
+            "suljemme",
+            "suljette",
+            "suljette",
+            "sulkevat",
+            "suljetaan"
+        ],
+        "preesens_neg": [
+            "en sulje",
+            "et sulje",
+            "ei sulje",
+            "emme sulje",
+            "ette sulje",
+            "ette sulje",
+            "eivät sulje",
+            "ei suljeta"
+        ],
+        "imperfekti": [
+            "suljin",
+            "suljit",
+            "sulki",
+            "suljimme",
+            "suljitte",
+            "suljitte",
+            "sulkivat",
+            "suljettiin"
+        ],
+        "imperfekti_neg": [
+            "en sulkenut",
+            "et sulkenut",
+            "ei sulkenut",
+            "emme sulkeneet",
+            "ette sulkeneet",
+            "ette sulkenut",
+            "eivät sulkeneet",
+            "ei suljettu"
+        ],
+        "perfekti": [
+            "olen sulkenut",
+            "olet sulkenut",
+            "on sulkenut",
+            "olemme sulkeneet",
+            "olette sulkeneet",
+            "olette sulkenut",
+            "ovat sulkeneet",
+            "on suljettu"
+        ],
+        "perfekti_neg": [
+            "en ole sulkenut",
+            "et ole sulkenut",
+            "ei ole sulkenut",
+            "emme ole sulkeneet",
+            "ette ole sulkeneet",
+            "ette ole sulkenut",
+            "eivät ole sulkeneet",
+            "ei ole suljettu"
+        ],
+        "pluskvamperfekti": [
+            "olin sulkenut",
+            "olit sulkenut",
+            "oli sulkenut",
+            "olimme sulkeneet",
+            "olitte sulkeneet",
+            "olitte sulkenut",
+            "olivat sulkeneet",
+            "oli suljettu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut sulkenut",
+            "et ollut sulkenut",
+            "ei ollut sulkenut",
+            "emme olleet sulkeneet",
+            "ette olleet sulkeneet",
+            "ette ollut sulkenut",
+            "eivät olleet sulkeneet",
+            "ei ollut suljettu"
+        ]
+    },
+    "syödä": {
+        "preesens": [
+            "syön",
+            "syöt",
+            "syö",
+            "syömme",
+            "syötte",
+            "syötte",
+            "syövät",
+            "syödään"
+        ],
+        "preesens_neg": [
+            "en syö",
+            "et syö",
+            "ei syö",
+            "emme syö",
+            "ette syö",
+            "ette syö",
+            "eivät syö",
+            "ei syödä"
+        ],
+        "imperfekti": [
+            "söin",
+            "söit",
+            "söi",
+            "söimme",
+            "söitte",
+            "söitte",
+            "söivät",
+            "syötiin"
+        ],
+        "imperfekti_neg": [
+            "en syönyt",
+            "et syönyt",
+            "ei syönyt",
+            "emme syöneet",
+            "ette syöneet",
+            "ette syönyt",
+            "eivät syöneet",
+            "ei syöty"
+        ],
+        "perfekti": [
+            "olen syönyt",
+            "olet syönyt",
+            "on syönyt",
+            "olemme syöneet",
+            "olette syöneet",
+            "olette syönyt",
+            "ovat syöneet",
+            "on syöty"
+        ],
+        "perfekti_neg": [
+            "en ole syönyt",
+            "et ole syönyt",
+            "ei ole syönyt",
+            "emme ole syöneet",
+            "ette ole syöneet",
+            "ette ole syönyt",
+            "eivät ole syöneet",
+            "ei ole syöty"
+        ],
+        "pluskvamperfekti": [
+            "olin syönyt",
+            "olit syönyt",
+            "oli syönyt",
+            "olimme syöneet",
+            "olitte syöneet",
+            "olitte syönyt",
+            "olivat syöneet",
+            "oli syöty"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut syönyt",
+            "et ollut syönyt",
+            "ei ollut syönyt",
+            "emme olleet syöneet",
+            "ette olleet syöneet",
+            "ette ollut syönyt",
+            "eivät olleet syöneet",
+            "ei ollut syöty"
+        ]
+    },
+    "tanssia": {
+        "preesens": [
+            "tanssin",
+            "tanssit",
+            "tanssii",
+            "tanssimme",
+            "tanssitte",
+            "tanssitte",
+            "tanssivat",
+            "tanssitaan"
+        ],
+        "preesens_neg": [
+            "en tanssi",
+            "et tanssi",
+            "ei tanssi",
+            "emme tanssi",
+            "ette tanssi",
+            "ette tanssi",
+            "eivät tanssi",
+            "ei tanssita"
+        ],
+        "imperfekti": [
+            "tanssin",
+            "tanssit",
+            "tanssi",
+            "tanssimme",
+            "tanssitte",
+            "tanssitte",
+            "tanssivat",
+            "tanssittiin"
+        ],
+        "imperfekti_neg": [
+            "en tanssinut",
+            "et tanssinut",
+            "ei tanssinut",
+            "emme tanssineet",
+            "ette tanssineet",
+            "ette tanssinut",
+            "eivät tanssineet",
+            "ei tanssittu"
+        ],
+        "perfekti": [
+            "olen tanssinut",
+            "olet tanssinut",
+            "on tanssinut",
+            "olemme tanssineet",
+            "olette tanssineet",
+            "olette tanssinut",
+            "ovat tanssineet",
+            "on tanssittu"
+        ],
+        "perfekti_neg": [
+            "en ole tanssinut",
+            "et ole tanssinut",
+            "ei ole tanssinut",
+            "emme ole tanssineet",
+            "ette ole tanssineet",
+            "ette ole tanssinut",
+            "eivät ole tanssineet",
+            "ei ole tanssittu"
+        ],
+        "pluskvamperfekti": [
+            "olin tanssinut",
+            "olit tanssinut",
+            "oli tanssinut",
+            "olimme tanssineet",
+            "olitte tanssineet",
+            "olitte tanssinut",
+            "olivat tanssineet",
+            "oli tanssittu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut tanssinut",
+            "et ollut tanssinut",
+            "ei ollut tanssinut",
+            "emme olleet tanssineet",
+            "ette olleet tanssineet",
+            "ette ollut tanssinut",
+            "eivät olleet tanssineet",
+            "ei ollut tanssittu"
+        ]
+    },
+    "tarvita": {
+        "preesens": [
+            "tarvitsen",
+            "tarvitset",
+            "tarvitsee",
+            "tarvitsemme",
+            "tarvitsette",
+            "tarvitsette",
+            "tarvitsevat",
+            "tarvitaan"
+        ],
+        "preesens_neg": [
+            "en tarvitse",
+            "et tarvitse",
+            "ei tarvitse",
+            "emme tarvitse",
+            "ette tarvitse",
+            "ette tarvitse",
+            "eivät tarvitse",
+            "ei tarvita"
+        ],
+        "imperfekti": [
+            "tarvitsin",
+            "tarvitsit",
+            "tarvitsi",
+            "tarvitsimme",
+            "tarvitsitte",
+            "tarvitsitte",
+            "tarvitsivat",
+            "tarvittiin"
+        ],
+        "imperfekti_neg": [
+            "en tarvinnut",
+            "et tarvinnut",
+            "ei tarvinnut",
+            "emme tarvinneet",
+            "ette tarvinneet",
+            "ette tarvinnut",
+            "eivät tarvinneet",
+            "ei tarvittu"
+        ],
+        "perfekti": [
+            "olen tarvinnut",
+            "olet tarvinnut",
+            "on tarvinnut",
+            "olemme tarvinneet",
+            "olette tarvinneet",
+            "olette tarvinnut",
+            "ovat tarvinneet",
+            "on tarvittu"
+        ],
+        "perfekti_neg": [
+            "en ole tarvinnut",
+            "et ole tarvinnut",
+            "ei ole tarvinnut",
+            "emme ole tarvinneet",
+            "ette ole tarvinneet",
+            "ette ole tarvinnut",
+            "eivät ole tarvinneet",
+            "ei ole tarvittu"
+        ],
+        "pluskvamperfekti": [
+            "olin tarvinnut",
+            "olit tarvinnut",
+            "oli tarvinnut",
+            "olimme tarvinneet",
+            "olitte tarvinneet",
+            "olitte tarvinnut",
+            "olivat tarvinneet",
+            "oli tarvittu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut tarvinnut",
+            "et ollut tarvinnut",
+            "ei ollut tarvinnut",
+            "emme olleet tarvinneet",
+            "ette olleet tarvinneet",
+            "ette ollut tarvinnut",
+            "eivät olleet tarvinneet",
+            "ei ollut tarvittu"
+        ]
+    },
+    "tavata": {
+        "preesens": [
+            "tapaan",
+            "tapaat",
+            "tapaa",
+            "tapaamme",
+            "tapaatte",
+            "tapaatte",
+            "tapaavat",
+            "tavataan"
+        ],
+        "preesens_neg": [
+            "en tapaa",
+            "et tapaa",
+            "ei tapaa",
+            "emme tapaa",
+            "ette tapaa",
+            "ette tapaa",
+            "eivät tapaa",
+            "ei tavata"
+        ],
+        "imperfekti": [
+            "tapasin",
+            "tapasit",
+            "tapasi",
+            "tapasimme",
+            "tapasitte",
+            "tapasitte",
+            "tapasivat",
+            "tavattiin"
+        ],
+        "imperfekti_neg": [
+            "en tavannut",
+            "et tavannut",
+            "ei tavannut",
+            "emme tavanneet",
+            "ette tavanneet",
+            "ette tavannut",
+            "eivät tavanneet",
+            "ei tavattu"
+        ],
+        "perfekti": [
+            "olen tavannut",
+            "olet tavannut",
+            "on tavannut",
+            "olemme tavanneet",
+            "olette tavanneet",
+            "olette tavannut",
+            "ovat tavanneet",
+            "on tavattu"
+        ],
+        "perfekti_neg": [
+            "en ole tavannut",
+            "et ole tavannut",
+            "ei ole tavannut",
+            "emme ole tavanneet",
+            "ette ole tavanneet",
+            "ette ole tavannut",
+            "eivät ole tavanneet",
+            "ei ole tavattu"
+        ],
+        "pluskvamperfekti": [
+            "olin tavannut",
+            "olit tavannut",
+            "oli tavannut",
+            "olimme tavanneet",
+            "olitte tavanneet",
+            "olitte tavannut",
+            "olivat tavanneet",
+            "oli tavattu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut tavannut",
+            "et ollut tavannut",
+            "ei ollut tavannut",
+            "emme olleet tavanneet",
+            "ette olleet tavanneet",
+            "ette ollut tavannut",
+            "eivät olleet tavanneet",
+            "ei ollut tavattu"
+        ]
+    },
+    "tehdä": {
+        "preesens": [
+            "teen",
+            "teet",
+            "tekee",
+            "teemme",
+            "teette",
+            "teette",
+            "tekevät",
+            "tehdään"
+        ],
+        "preesens_neg": [
+            "en tee",
+            "et tee",
+            "ei tee",
+            "emme tee",
+            "ette tee",
+            "ette tee",
+            "eivät tee",
+            "ei tehdä"
+        ],
+        "imperfekti": [
+            "tein",
+            "teit",
+            "teki",
+            "teimme",
+            "teitte",
+            "teitte",
+            "tekivät",
+            "tehtiin"
+        ],
+        "imperfekti_neg": [
+            "en tehnyt",
+            "et tehnyt",
+            "ei tehnyt",
+            "emme tehneet",
+            "ette tehneet",
+            "ette tehnyt",
+            "eivät tehneet",
+            "ei tehty"
+        ],
+        "perfekti": [
+            "olen tehnyt",
+            "olet tehnyt",
+            "on tehnyt",
+            "olemme tehneet",
+            "olette tehneet",
+            "olette tehnyt",
+            "ovat tehneet",
+            "on tehty"
+        ],
+        "perfekti_neg": [
+            "en ole tehnyt",
+            "et ole tehnyt",
+            "ei ole tehnyt",
+            "emme ole tehneet",
+            "ette ole tehneet",
+            "ette ole tehnyt",
+            "eivät ole tehneet",
+            "ei ole tehty"
+        ],
+        "pluskvamperfekti": [
+            "olin tehnyt",
+            "olit tehnyt",
+            "oli tehnyt",
+            "olimme tehneet",
+            "olitte tehneet",
+            "olitte tehnyt",
+            "olivat tehneet",
+            "oli tehty"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut tehnyt",
+            "et ollut tehnyt",
+            "ei ollut tehnyt",
+            "emme olleet tehneet",
+            "ette olleet tehneet",
+            "ette ollut tehnyt",
+            "eivät olleet tehneet",
+            "ei ollut tehty"
+        ]
+    },
+    "tietää": {
+        "preesens": [
+            "tiedän",
+            "tiedät",
+            "tietää",
+            "tiedämme",
+            "tiedätte",
+            "tiedätte",
+            "tietävät",
+            "tiedetään"
+        ],
+        "preesens_neg": [
+            "en tiedä",
+            "et tiedä",
+            "ei tiedä",
+            "emme tiedä",
+            "ette tiedä",
+            "ette tiedä",
+            "eivät tiedä",
+            "ei tiedetä"
+        ],
+        "imperfekti": [
+            "tiesin",
+            "tiesit",
+            "tiesi",
+            "tiesimme",
+            "tiesitte",
+            "tiesitte",
+            "tiesivät",
+            "tiedettiin"
+        ],
+        "imperfekti_neg": [
+            "en tiennyt",
+            "et tiennyt",
+            "ei tiennyt",
+            "emme tienneet",
+            "ette tienneet",
+            "ette tiennyt",
+            "eivät tienneet",
+            "ei tiedetty"
+        ],
+        "perfekti": [
+            "olen tiennyt",
+            "olet tiennyt",
+            "on tiennyt",
+            "olemme tienneet",
+            "olette tienneet",
+            "olette tiennyt",
+            "ovat tienneet",
+            "on tiedetty"
+        ],
+        "perfekti_neg": [
+            "en ole tiennyt",
+            "et ole tiennyt",
+            "ei ole tiennyt",
+            "emme ole tienneet",
+            "ette ole tienneet",
+            "ette ole tiennyt",
+            "eivät ole tienneet",
+            "ei ole tiedetty"
+        ],
+        "pluskvamperfekti": [
+            "olin tiennyt",
+            "olit tiennyt",
+            "oli tiennyt",
+            "olimme tienneet",
+            "olitte tienneet",
+            "olitte tiennyt",
+            "olivat tienneet",
+            "oli tiedetty"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut tiennyt",
+            "et ollut tiennyt",
+            "ei ollut tiennyt",
+            "emme olleet tienneet",
+            "ette olleet tienneet",
+            "ette ollut tiennyt",
+            "eivät olleet tienneet",
+            "ei ollut tiedetty"
+        ]
+    },
+    "tulla": {
+        "preesens": [
+            "tulen",
+            "tulet",
+            "tulee",
+            "tulemme",
+            "tulette",
+            "tulette",
+            "tulevat",
+            "tullaan"
+        ],
+        "preesens_neg": [
+            "en tule",
+            "et tule",
+            "ei tule",
+            "emme tule",
+            "ette tule",
+            "ette tule",
+            "eivät tule",
+            "ei tulla"
+        ],
+        "imperfekti": [
+            "tulin",
+            "tulit",
+            "tuli",
+            "tulimme",
+            "tulitte",
+            "tulitte",
+            "tulivat",
+            "tultiin"
+        ],
+        "imperfekti_neg": [
+            "en tullut",
+            "et tullut",
+            "ei tullut",
+            "emme tulleet",
+            "ette tulleet",
+            "ette tullut",
+            "eivät tulleet",
+            "ei tultu"
+        ],
+        "perfekti": [
+            "olen tullut",
+            "olet tullut",
+            "on tullut",
+            "olemme tulleet",
+            "olette tulleet",
+            "olette tullut",
+            "ovat tulleet",
+            "on tultu"
+        ],
+        "perfekti_neg": [
+            "en ole tullut",
+            "et ole tullut",
+            "ei ole tullut",
+            "emme ole tulleet",
+            "ette ole tulleet",
+            "ette ole tullut",
+            "eivät ole tulleet",
+            "ei ole tultu"
+        ],
+        "pluskvamperfekti": [
+            "olin tullut",
+            "olit tullut",
+            "oli tullut",
+            "olimme tulleet",
+            "olitte tulleet",
+            "olitte tullut",
+            "olivat tulleet",
+            "oli tultu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut tullut",
+            "et ollut tullut",
+            "ei ollut tullut",
+            "emme olleet tulleet",
+            "ette olleet tulleet",
+            "ette ollut tullut",
+            "eivät olleet tulleet",
+            "ei ollut tultu"
+        ]
+    },
+    "tuoda": {
+        "preesens": [
+            "tuon",
+            "tuot",
+            "tuo",
+            "tuomme",
+            "tuotte",
+            "tuotte",
+            "tuovat",
+            "tuodaan"
+        ],
+        "preesens_neg": [
+            "en tuo",
+            "et tuo",
+            "ei tuo",
+            "emme tuo",
+            "ette tuo",
+            "ette tuo",
+            "eivät tuo",
+            "ei tuoda"
+        ],
+        "imperfekti": [
+            "toin",
+            "toit",
+            "toi",
+            "toimme",
+            "toitte",
+            "toitte",
+            "toivat",
+            "tuotiin"
+        ],
+        "imperfekti_neg": [
+            "en tuonut",
+            "et tuonut",
+            "ei tuonut",
+            "emme tuoneet",
+            "ette tuoneet",
+            "ette tuonut",
+            "eivät tuoneet",
+            "ei tuotu"
+        ],
+        "perfekti": [
+            "olen tuonut",
+            "olet tuonut",
+            "on tuonut",
+            "olemme tuoneet",
+            "olette tuoneet",
+            "olette tuonut",
+            "ovat tuoneet",
+            "on tuotu"
+        ],
+        "perfekti_neg": [
+            "en ole tuonut",
+            "et ole tuonut",
+            "ei ole tuonut",
+            "emme ole tuoneet",
+            "ette ole tuoneet",
+            "ette ole tuonut",
+            "eivät ole tuoneet",
+            "ei ole tuotu"
+        ],
+        "pluskvamperfekti": [
+            "olin tuonut",
+            "olit tuonut",
+            "oli tuonut",
+            "olimme tuoneet",
+            "olitte tuoneet",
+            "olitte tuonut",
+            "olivat tuoneet",
+            "oli tuotu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut tuonut",
+            "et ollut tuonut",
+            "ei ollut tuonut",
+            "emme olleet tuoneet",
+            "ette olleet tuoneet",
+            "ette ollut tuonut",
+            "eivät olleet tuoneet",
+            "ei ollut tuotu"
+        ]
+    },
+    "tuntea": {
+        "preesens": [
+            "tunnen",
+            "tunnet",
+            "tuntee",
+            "tunnemme",
+            "tunnette",
+            "tunnette",
+            "tuntevat",
+            "tunnetaan"
+        ],
+        "preesens_neg": [
+            "en tunne",
+            "et tunne",
+            "ei tunne",
+            "emme tunne",
+            "ette tunne",
+            "ette tunne",
+            "eivät tunne",
+            "ei tunneta"
+        ],
+        "imperfekti": [
+            "tunsin",
+            "tunsit",
+            "tunsi",
+            "tunsimme",
+            "tunsitte",
+            "tunsitte",
+            "tunsivat",
+            "tunnettiin"
+        ],
+        "imperfekti_neg": [
+            "en tuntenut",
+            "et tuntenut",
+            "ei tuntenut",
+            "emme tunteneet",
+            "ette tunteneet",
+            "ette tuntenut",
+            "eivät tunteneet",
+            "ei tunnettu"
+        ],
+        "perfekti": [
+            "olen tuntenut",
+            "olet tuntenut",
+            "on tuntenut",
+            "olemme tunteneet",
+            "olette tunteneet",
+            "olette tuntenut",
+            "ovat tunteneet",
+            "on tunnettu"
+        ],
+        "perfekti_neg": [
+            "en ole tuntenut",
+            "et ole tuntenut",
+            "ei ole tuntenut",
+            "emme ole tunteneet",
+            "ette ole tunteneet",
+            "ette ole tuntenut",
+            "eivät ole tunteneet",
+            "ei ole tunnettu"
+        ],
+        "pluskvamperfekti": [
+            "olin tuntenut",
+            "olit tuntenut",
+            "oli tuntenut",
+            "olimme tunteneet",
+            "olitte tunteneet",
+            "olitte tuntenut",
+            "olivat tunteneet",
+            "oli tunnettu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut tuntenut",
+            "et ollut tuntenut",
+            "ei ollut tuntenut",
+            "emme olleet tunteneet",
+            "ette olleet tunteneet",
+            "ette ollut tuntenut",
+            "eivät olleet tunteneet",
+            "ei ollut tunnettu"
+        ]
+    },
+    "uida": {
+        "preesens": [
+            "uin",
+            "uit",
+            "ui",
+            "uimme",
+            "uitte",
+            "uitte",
+            "uivat",
+            "uidaan"
+        ],
+        "preesens_neg": [
+            "en ui",
+            "et ui",
+            "ei ui",
+            "emme ui",
+            "ette ui",
+            "ette ui",
+            "eivät ui",
+            "ei uida"
+        ],
+        "imperfekti": [
+            "uin",
+            "uit",
+            "ui",
+            "uimme",
+            "uitte",
+            "uitte",
+            "uivat",
+            "uitiin"
+        ],
+        "imperfekti_neg": [
+            "en uinut",
+            "et uinut",
+            "ei uinut",
+            "emme uineet",
+            "ette uineet",
+            "ette uinut",
+            "eivät uineet",
+            "ei uittu"
+        ],
+        "perfekti": [
+            "olen uinut",
+            "olet uinut",
+            "on uinut",
+            "olemme uineet",
+            "olette uineet",
+            "olette uinut",
+            "ovat uineet",
+            "on uittu"
+        ],
+        "perfekti_neg": [
+            "en ole uinut",
+            "et ole uinut",
+            "ei ole uinut",
+            "emme ole uineet",
+            "ette ole uineet",
+            "ette ole uinut",
+            "eivät ole uineet",
+            "ei ole uittu"
+        ],
+        "pluskvamperfekti": [
+            "olin uinut",
+            "olit uinut",
+            "oli uinut",
+            "olimme uineet",
+            "olitte uineet",
+            "olitte uinut",
+            "olivat uineet",
+            "oli uittu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut uinut",
+            "et ollut uinut",
+            "ei ollut uinut",
+            "emme olleet uineet",
+            "ette olleet uineet",
+            "ette ollut uinut",
+            "eivät olleet uineet",
+            "ei ollut uittu"
+        ]
+    },
+    "vanheta": {
+        "preesens": [
+            "vanhenen",
+            "vanhenet",
+            "vanhenee",
+            "vanhnemme",
+            "vanhenette",
+            "vanhenette",
+            "vanhenevat",
+            "vanhetaan"
+        ],
+        "preesens_neg": [
+            "en vanhene",
+            "et vanhene",
+            "ei vanhene",
+            "emme vanhene",
+            "ette vanhene",
+            "ette vanhene",
+            "eivät vanhene",
+            "ei vanheta"
+        ],
+        "imperfekti": [
+            "vanhenin",
+            "vanhenit",
+            "vanheni",
+            "vanhenimme",
+            "vanhenitte",
+            "vanhenitte",
+            "vanhenivat",
+            "vanhettiin"
+        ],
+        "imperfekti_neg": [
+            "en vanhennut",
+            "et vanhennut",
+            "ei vanhennut",
+            "emme vanhenneet",
+            "ette vanhenneet",
+            "ette vanhennut",
+            "eivät vanhenneet",
+            "ei vanhettu"
+        ],
+        "perfekti": [
+            "olen vanhennut",
+            "olet vanhennut",
+            "on vanhennut",
+            "olemme vanhenneet",
+            "olette vanhenneet",
+            "olette vanhennut",
+            "ovat vanhenneet",
+            "on vanhettu"
+        ],
+        "perfekti_neg": [
+            "en ole vanhennut",
+            "et ole vanhennut",
+            "ei ole vanhennut",
+            "emme ole vanhenneet",
+            "ette ole vanhenneet",
+            "ette ole vanhennut",
+            "eivät ole vanhenneet",
+            "ei ole vanhettu"
+        ],
+        "pluskvamperfekti": [
+            "olin vanhennut",
+            "olit vanhennut",
+            "oli vanhennut",
+            "olimme vanhenneet",
+            "olitte vanhenneet",
+            "olitte vanhennut",
+            "olivat vanhenneet",
+            "oli vanhettu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut vanhennut",
+            "et ollut vanhennut",
+            "ei ollut vanhennut",
+            "emme olleet vanhenneet",
+            "ette olleet vanhenneet",
+            "ette ollut vanhennut",
+            "eivät olleet vanhenneet",
+            "ei ollut vanhettu"
+        ]
+    },
+    "vastata": {
+        "preesens": [
+            "vastaan",
+            "vastaat",
+            "vastaa",
+            "vastaamme",
+            "vastaatte",
+            "vastaatte",
+            "vastaavat",
+            "vastataan"
+        ],
+        "preesens_neg": [
+            "en vastaa",
+            "et vastaa",
+            "ei vastaa",
+            "emme vastaa",
+            "ette vastaa",
+            "ette vastaa",
+            "eivät vastaa",
+            "ei vastata"
+        ],
+        "imperfekti": [
+            "vastasin",
+            "vastasit",
+            "vastasi",
+            "vastasimme",
+            "vastasitte",
+            "vastasitte",
+            "vastasivat",
+            "vastattiin"
+        ],
+        "imperfekti_neg": [
+            "en vastannut",
+            "et vastannut",
+            "ei vastannut",
+            "emme vastanneet",
+            "ette vastanneet",
+            "ette vastannut",
+            "eivät vastanneet",
+            "ei vastattu"
+        ],
+        "perfekti": [
+            "olen vastannut",
+            "olet vastannut",
+            "on vastannut",
+            "olemme vastanneet",
+            "olette vastanneet",
+            "olette vastannut",
+            "ovat vastanneet",
+            "on vastattu"
+        ],
+        "perfekti_neg": [
+            "en ole vastannut",
+            "et ole vastannut",
+            "ei ole vastannut",
+            "emme ole vastanneet",
+            "ette ole vastanneet",
+            "ette ole vastannut",
+            "eivät ole vastanneet",
+            "ei ole vastattu"
+        ],
+        "pluskvamperfekti": [
+            "olin vastannut",
+            "olit vastannut",
+            "oli vastannut",
+            "olimme vastanneet",
+            "olitte vastanneet",
+            "olitte vastannut",
+            "olivat vastanneet",
+            "oli vastattu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut vastannut",
+            "et ollut vastannut",
+            "ei ollut vastannut",
+            "emme olleet vastanneet",
+            "ette olleet vastanneet",
+            "ette ollut vastannut",
+            "eivät olleet vastanneet",
+            "ei ollut vastattu"
+        ]
+    },
+    "viedä": {
+        "preesens": [
+            "vien",
+            "viet",
+            "vie",
+            "viemme",
+            "viette",
+            "viette",
+            "vievät",
+            "viedään"
+        ],
+        "preesens_neg": [
+            "en vie",
+            "et vie",
+            "ei vie",
+            "emme vie",
+            "ette vie",
+            "ette vie",
+            "eivät vie",
+            "ei viedä"
+        ],
+        "imperfekti": [
+            "vein",
+            "veit",
+            "vei",
+            "veimme",
+            "veitte",
+            "veitte",
+            "veivät",
+            "vietiin"
+        ],
+        "imperfekti_neg": [
+            "en vienyt",
+            "et vienyt",
+            "ei vienyt",
+            "emme vieneet",
+            "ette vieneet",
+            "ette vienyt",
+            "eivät vieneet",
+            "ei viety"
+        ],
+        "perfekti": [
+            "olen vienyt",
+            "olet vienyt",
+            "on vienyt",
+            "olemme vieneet",
+            "olette vieneet",
+            "olette vienyt",
+            "ovat vieneet",
+            "on viety"
+        ],
+        "perfekti_neg": [
+            "en ole vienyt",
+            "et ole vienyt",
+            "ei ole vienyt",
+            "emme ole vieneet",
+            "ette ole vieneet",
+            "ette ole vienyt",
+            "eivät ole vieneet",
+            "ei ole viety"
+        ],
+        "pluskvamperfekti": [
+            "olin vienyt",
+            "olit vienyt",
+            "oli vienyt",
+            "olimme vieneet",
+            "olitte vieneet",
+            "olitte vienyt",
+            "olivat vieneet",
+            "oli viety"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut vienyt",
+            "et ollut vienyt",
+            "ei ollut vienyt",
+            "emme olleet vieneet",
+            "ette olleet vieneet",
+            "ette ollut vienyt",
+            "eivät olleet vieneet",
+            "ei ollut viety"
+        ]
+    },
+    "viettää": {
+        "preesens": [
+            "vietän",
+            "vietät",
+            "viettää",
+            "vietämme",
+            "vietätte",
+            "vietätte",
+            "viettävät",
+            "vietetään"
+        ],
+        "preesens_neg": [
+            "en vietä",
+            "et vietä",
+            "ei vietä",
+            "emme vietä",
+            "ette vietä",
+            "ette vietä",
+            "eivät vietä",
+            "ei vietetä"
+        ],
+        "imperfekti": [
+            "vietin",
+            "vietit",
+            "vietti",
+            "vietimme",
+            "vietitte",
+            "vietitte",
+            "viettivät",
+            "vietettiin"
+        ],
+        "imperfekti_neg": [
+            "en viettänyt",
+            "et viettänyt",
+            "ei viettänyt",
+            "emme viettäneet",
+            "ette viettäneet",
+            "ette viettänyt",
+            "eivät viettäneet",
+            "ei vietetty"
+        ],
+        "perfekti": [
+            "olen viettänyt",
+            "olet viettänyt",
+            "on viettänyt",
+            "olemme viettäneet",
+            "olette viettäneet",
+            "olette viettänyt",
+            "ovat viettäneet",
+            "on vietetty"
+        ],
+        "perfekti_neg": [
+            "en ole viettänyt",
+            "et ole viettänyt",
+            "ei ole viettänyt",
+            "emme ole viettäneet",
+            "ette ole viettäneet",
+            "ette ole viettänyt",
+            "eivät ole viettäneet",
+            "ei ole vietetty"
+        ],
+        "pluskvamperfekti": [
+            "olin viettänyt",
+            "olit viettänyt",
+            "oli viettänyt",
+            "olimme viettäneet",
+            "olitte viettäneet",
+            "olitte viettänyt",
+            "olivat viettäneet",
+            "oli vietetty"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut viettänyt",
+            "et ollut viettänyt",
+            "ei ollut viettänyt",
+            "emme olleet viettäneet",
+            "ette olleet viettäneet",
+            "ette ollut viettänyt",
+            "eivät olleet viettäneet",
+            "ei ollut vietetty"
+        ]
+    },
+    "voida": {
+        "preesens": [
+            "voin",
+            "voit",
+            "voi",
+            "voimme",
+            "voitte",
+            "voitte",
+            "voivat",
+            "voidaan"
+        ],
+        "preesens_neg": [
+            "en voi",
+            "et voi",
+            "ei voi",
+            "emme voi",
+            "ette voi",
+            "ette voi",
+            "eivät voi",
+            "ei voida"
+        ],
+        "imperfekti": [
+            "voin",
+            "voit",
+            "voi",
+            "voimme",
+            "voitte",
+            "voitte",
+            "voivat",
+            "voitiin"
+        ],
+        "imperfekti_neg": [
+            "en voinut",
+            "et voinut",
+            "ei voinut",
+            "emme voineet",
+            "ette voineet",
+            "ette voinut",
+            "eivät voineet",
+            "ei voitu"
+        ],
+        "perfekti": [
+            "olen voinut",
+            "olet voinut",
+            "on voinut",
+            "olemme voineet",
+            "olette voineet",
+            "olette voinut",
+            "ovat voineet",
+            "on voitu"
+        ],
+        "perfekti_neg": [
+            "en ole voinut",
+            "et ole voinut",
+            "ei ole voinut",
+            "emme ole voineet",
+            "ette ole voineet",
+            "ette ole voinut",
+            "eivät ole voineet",
+            "ei ole voitu"
+        ],
+        "pluskvamperfekti": [
+            "olin voinut",
+            "olit voinut",
+            "oli voinut",
+            "olimme voineet",
+            "olitte voineet",
+            "olitte voinut",
+            "olivat voineet",
+            "oli voitu"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut voinut",
+            "et ollut voinut",
+            "ei ollut voinut",
+            "emme olleet voineet",
+            "ette olleet voineet",
+            "ette ollut voinut",
+            "eivät olleet voineet",
+            "ei ollut voitu"
+        ]
+    },
+    "ymmärtää": {
+        "preesens": [
+            "ymmärrän",
+            "ymmärrät",
+            "ymmärtää",
+            "ymmärrämme",
+            "ymmärrätte",
+            "ymmärrätte",
+            "ymmärtävät",
+            "ymmärretään"
+        ],
+        "preesens_neg": [
+            "en ymmärrä",
+            "et ymmärrä",
+            "ei ymmärrä",
+            "emme ymmärrä",
+            "ette ymmärrä",
+            "ette ymmärrä",
+            "eivät ymmärrä",
+            "ei ymmärretä"
+        ],
+        "imperfekti": [
+            "ymmärsin",
+            "ymmärsit",
+            "ymmärsi",
+            "ymmärsimme",
+            "ymmärsitte",
+            "ymmärsitte",
+            "ymmärsivät",
+            "ymmärrettiin"
+        ],
+        "imperfekti_neg": [
+            "en ymmärtänyt",
+            "et ymmärtänyt",
+            "ei ymmärtänyt",
+            "emme ymmärtäneet",
+            "ette ymmärtäneet",
+            "ette ymmärtänyt",
+            "eivät ymmärtäneet",
+            "ei ymmärretty"
+        ],
+        "perfekti": [
+            "olen ymmärtänyt",
+            "olet ymmärtänyt",
+            "on ymmärtänyt",
+            "olemme ymmärtäneet",
+            "olette ymmärtäneet",
+            "olette ymmärtänyt",
+            "ovat ymmärtäneet",
+            "on ymmärretty"
+        ],
+        "perfekti_neg": [
+            "en ole ymmärtänyt",
+            "et ole ymmärtänyt",
+            "ei ole ymmärtänyt",
+            "emme ole ymmärtäneet",
+            "ette ole ymmärtäneet",
+            "ette ole ymmärtänyt",
+            "eivät ole ymmärtäneet",
+            "ei ole ymmärretty"
+        ],
+        "pluskvamperfekti": [
+            "olin ymmärtänyt",
+            "olit ymmärtänyt",
+            "oli ymmärtänyt",
+            "olimme ymmärtäneet",
+            "olitte ymmärtäneet",
+            "olitte ymmärtänyt",
+            "olivat ymmärtäneet",
+            "oli ymmärretty"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut ymmärtänyt",
+            "et ollut ymmärtänyt",
+            "ei ollut ymmärtänyt",
+            "emme olleet ymmärtäneet",
+            "ette olleet ymmärtäneet",
+            "ette ollut ymmärtänyt",
+            "eivät olleet ymmärtäneet",
+            "ei ollut ymmärretty"
+        ]
+    },
+    "yrittää": {
+        "preesens": [
+            "yritän",
+            "yrität",
+            "yrittää",
+            "yritämme",
+            "yritätte",
+            "yritätte",
+            "yrittävät",
+            "yritetään"
+        ],
+        "preesens_neg": [
+            "en yritä",
+            "et yritä",
+            "ei yritä",
+            "emme yritä",
+            "ette yritä",
+            "ette yritä",
+            "eivät yritä",
+            "ei yritetä"
+        ],
+        "imperfekti": [
+            "yritin",
+            "yritit",
+            "yritti",
+            "yritimme",
+            "yrititte",
+            "yrititte",
+            "yrittivät",
+            "yritettiin"
+        ],
+        "imperfekti_neg": [
+            "en yrittänyt",
+            "et yrittänyt",
+            "ei yrittänyt",
+            "emme yrittäneet",
+            "ette yrittäneet",
+            "ette yrittänyt",
+            "eivät yrittäneet",
+            "ei yritetty"
+        ],
+        "perfekti": [
+            "olen yrittänyt",
+            "olet yrittänyt",
+            "on yrittänyt",
+            "olemme yrittäneet",
+            "olette yrittäneet",
+            "olette yrittänyt",
+            "ovat yrittäneet",
+            "on yritetty"
+        ],
+        "perfekti_neg": [
+            "en ole yrittänyt",
+            "et ole yrittänyt",
+            "ei ole yrittänyt",
+            "emme ole yrittäneet",
+            "ette ole yrittäneet",
+            "ette ole yrittänyt",
+            "eivät ole yrittäneet",
+            "ei ole yritetty"
+        ],
+        "pluskvamperfekti": [
+            "olin yrittänyt",
+            "olit yrittänyt",
+            "oli yrittänyt",
+            "olimme yrittäneet",
+            "olitte yrittäneet",
+            "olitte yrittänyt",
+            "olivat yrittäneet",
+            "oli yritetty"
+        ],
+        "pluskvamperfekti_neg": [
+            "en ollut yrittänyt",
+            "et ollut yrittänyt",
+            "ei ollut yrittänyt",
+            "emme olleet yrittäneet",
+            "ette olleet yrittäneet",
+            "ette ollut yrittänyt",
+            "eivät olleet yrittäneet",
+            "ei ollut yritetty"
+        ]
+    }
+}
