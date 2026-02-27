@@ -157,9 +157,18 @@ func handler(w http.ResponseWriter, r *http.Request) {
 	_ = tmpl.Execute(w, data)
 }
 
+func verbsHandler(w http.ResponseWriter, r *http.Request) {
+	w.Header().Set("Content-Type", "application/json")
+	names := make([]string, 0, len(verbs))
+	for k := range verbs {
+		names = append(names, k)
+	}
+	json.NewEncoder(w).Encode(names)
+}
 func main() {
 	loadVerbs()
 	http.HandleFunc("/", handler)
+	http.HandleFunc("/verbs", verbsHandler)
 	if err := http.ListenAndServe(":8080", nil); err != nil {
 		panic(err)
 	}
