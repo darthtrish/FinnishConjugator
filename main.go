@@ -14,6 +14,7 @@ import (
 var tmpl = template.Must(template.ParseFiles("templates/index.html"))
 
 type VerbForms struct {
+	Translation         string   `json:"translation"`
 	Preesens            []string `json:"preesens"`
 	PreesensNeg         []string `json:"preesens_neg"`
 	Imperfekti          []string `json:"imperfekti"`
@@ -35,9 +36,10 @@ type Tense struct {
 }
 
 type PageData struct {
-	Verb   string
-	Tenses []Tense
-	Error  string
+	Verb        string
+	Translation string
+	Tenses      []Tense
+	Error       string
 }
 
 var verbs map[string]VerbForms
@@ -146,6 +148,7 @@ func handler(w http.ResponseWriter, r *http.Request) {
 
 		if ok {
 			data.Tenses = allTenses(normVerb)
+			data.Translation = verbs[normVerb].Translation
 		} else {
 			data.Error = "Verbiä ei löydy. Kokeile esimerkiksi: laulaa, mennä, syödä."
 		}
