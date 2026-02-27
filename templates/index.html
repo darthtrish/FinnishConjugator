@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Verbitaivutus</title>
     <style>
-        /* Minimalist Retro Palette (Bauhaus/Swiss inspired) */
         :root {
             --bg-color: #ffffff;
             --text-main: #1a1a1a;
@@ -40,13 +39,19 @@
             text-align: center;
         }
 
-        form {
+        .search-wrapper {
             display: flex;
             justify-content: center;
-            gap: 0;
-            /* Merged input and button look */
             margin-bottom: 80px;
-            flex-wrap: wrap;
+        }
+
+        .search-inner {
+            position: relative;
+        }
+
+        form {
+            display: flex;
+            gap: 0;
         }
 
         input[type="text"] {
@@ -55,8 +60,7 @@
             background: transparent;
             font-family: inherit;
             font-size: 16px;
-            flex: 1 1 auto;
-            max-width: 300px;
+            width: 280px;
             outline: none;
         }
 
@@ -64,7 +68,6 @@
             padding: 12px 24px;
             border: 1px solid var(--accent);
             border-left: none;
-            /* Merges with input */
             background-color: var(--accent);
             color: white;
             font-family: inherit;
@@ -77,6 +80,34 @@
 
         button:hover {
             opacity: 0.8;
+        }
+
+        #suggestions {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            position: absolute;
+            top: 100%;
+            left: 0;
+            right: 0;
+            background: white;
+            border: 1px solid var(--accent);
+            border-top: none;
+            max-height: 200px;
+            overflow-y: auto;
+            display: none;
+            z-index: 100;
+        }
+
+        #suggestions li {
+            padding: 10px 16px;
+            cursor: pointer;
+            font-size: 15px;
+        }
+
+        #suggestions li:hover,
+        #suggestions li.active {
+            background-color: var(--hover-bg);
         }
 
         .verb-info {
@@ -98,7 +129,6 @@
             text-transform: lowercase;
         }
 
-        /* Tense grid */
         .tense-grid {
             display: grid;
             grid-template-columns: 1fr;
@@ -158,10 +188,16 @@
     <div class="container">
         <h1>Verbitaivutus / Index</h1>
 
-        <form method="POST">
-            <input type="text" name="verb" placeholder="Hae verbiä..." value="{{.Verb}}">
-            <button type="submit">Hae</button>
-        </form>
+        <div class="search-wrapper">
+            <div class="search-inner">
+                <form method="POST">
+                    <input type="text" name="verb" id="verbInput" placeholder="Hae verbiä..." value="{{.Verb}}"
+                        autocomplete="off">
+                    <button type="submit">Hae</button>
+                </form>
+                <ul id="suggestions"></ul>
+            </div>
+        </div>
 
         {{if .Error}}
         <p class="error">{{.Error}}</p>
@@ -192,6 +228,78 @@
         </div>
         {{end}}
     </div>
+
+    <script>
+        const input = document.getElementById('verbInput');
+        const list = document.getElementById('suggestions');
+        let allVerbs = [];
+
+        fetch('/verbs')
+            .then(r => r.json())
+            .then(data => { allVerbs = data.sort(); });
+
+        input.addEventListener('input', () => {
+            const q = input.value.trim().toLowerCase();
+            list.innerHTML = '';
+
+            if (q.length < 2) {
+                list.style.display = 'none';
+                return;
+            }
+
+            const matches = allVerbs.filter(v => v.startsWith(q)).slice(0, 8);
+
+            if (matches.length === 0) {
+                list.style.display = 'none';
+                return;
+            }
+
+            matches.forEach(verb => {
+                const li = document.createElement('li');
+                li.textContent = verb;
+                li.addEventListener('click', () => {
+                    input.value = verb;
+                    list.style.display = 'none';
+                    input.form.submit();
+                });
+                list.appendChild(li);
+            });
+
+            list.style.display = 'block';
+        });
+
+        document.addEventListener('click', (e) => {
+            if (e.target !== input) list.style.display = 'none';
+        });
+
+        input.addEventListener('keydown', (e) => {
+            const items = list.querySelectorAll('li');
+            const active = list.querySelector('li.active');
+
+            if (e.key === 'ArrowDown') {
+                e.preventDefault();
+                if (!active) {
+                    items[0]?.classList.add('active');
+                } else {
+                    active.classList.remove('active');
+                    (active.nextElementSibling || items[0]).classList.add('active');
+                }
+            } else if (e.key === 'ArrowUp') {
+                e.preventDefault();
+                if (active) {
+                    active.classList.remove('active');
+                    (active.previousElementSibling || items[items.length - 1]).classList.add('active');
+                }
+            } else if (e.key === 'Enter' && active) {
+                e.preventDefault();
+                input.value = active.textContent;
+                list.style.display = 'none';
+                input.form.submit();
+            } else if (e.key === 'Escape') {
+                list.style.display = 'none';
+            }
+        });
+    </script>
 </body>
 
 </html>
