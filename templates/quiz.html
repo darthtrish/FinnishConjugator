@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="fi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verbitaivutus — Harjoittelu</title>
+    <style>
+        :root {
+            --bg-color: #ffffff;
+            --text-main: #1a1a1a;
+            --accent: #000000;
+            --muted: #757575;
+            --border: #e0e0e0;
+            --correct: #2e7d32;
+            --wrong: #c62828;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Inter", "Helvetica Neue", Arial, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            margin: 0;
+            padding: 20px;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        .container {
+            max-width: 500px;
+            margin: 80px auto;
+            padding: 0 20px;
+        }
+
+        .nav {
+            font-size: 12px;
+            text-transform: uppercase;
+            letter-spacing: 0.15em;
+            margin-bottom: 60px;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .nav a {
+            color: var(--muted);
+            text-decoration: none;
+        }
+
+        .nav a:hover {
+            color: var(--text-main);
+        }
+
+        .prompt {
+            margin-bottom: 40px;
+        }
+
+        .prompt .tense {
+            font-size: 12px;
+            text-transform: uppercase;
+            letter-spacing: 0.15em;
+            color: var(--muted);
+            margin-bottom: 12px;
+        }
+
+        .prompt .verb {
+            font-size: 42px;
+            font-weight: 800;
+            line-height: 1;
+            margin-bottom: 8px;
+        }
+
+        .prompt .pronoun {
+            font-size: 20px;
+            color: var(--muted);
+        }
+
+        form {
+            display: flex;
+            gap: 0;
+            margin-bottom: 24px;
+        }
+
+        input[type="text"] {
+            padding: 14px 16px;
+            border: 1px solid var(--accent);
+            background: transparent;
+            font-family: inherit;
+            font-size: 18px;
+            flex: 1;
+            outline: none;
+        }
+
+        input[type="text"].correct {
+            border-color: var(--correct);
+            color: var(--correct);
+        }
+
+        input[type="text"].wrong {
+            border-color: var(--wrong);
+            color: var(--wrong);
+        }
+
+        button {
+            padding: 14px 24px;
+            border: 1px solid var(--accent);
+            border-left: none;
+            background-color: var(--accent);
+            color: white;
+            font-family: inherit;
+            font-weight: 600;
+            font-size: 14px;
+            text-transform: uppercase;
+            cursor: pointer;
+            transition: opacity 0.2s;
+            white-space: nowrap;
+        }
+
+        button:hover {
+            opacity: 0.8;
+        }
+
+        .feedback {
+            font-size: 15px;
+            margin-bottom: 32px;
+            min-height: 24px;
+        }
+
+        .feedback.correct {
+            color: var(--correct);
+        }
+
+        .feedback.wrong {
+            color: var(--wrong);
+        }
+
+        .next-btn {
+            display: inline-block;
+            padding: 12px 24px;
+            border: 1px solid var(--accent);
+            background: transparent;
+            font-family: inherit;
+            font-size: 14px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            cursor: pointer;
+            text-decoration: none;
+            color: var(--text-main);
+            transition: background 0.2s;
+        }
+
+        .next-btn:hover {
+            background: var(--accent);
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="nav">
+            <a href="/">← Takaisin</a>
+            <span>Harjoittelu</span>
+        </div>
+
+        <div class="prompt">
+            <div class="tense">{{.Tense}}</div>
+            <div class="verb">{{.Verb}}</div>
+            <div class="pronoun">{{.Pronoun}} →</div>
+        </div>
+
+        {{if .Result}}
+        {{if eq .Result "correct"}}
+        <div class="feedback correct">✓ Oikein!</div>
+        {{else}}
+        <div class="feedback wrong">✗ Väärin — oikea vastaus: <strong>{{.Answer}}</strong></div>
+        {{end}}
+        <a href="/quiz" class="next-btn">Seuraava →</a>
+        {{else}}
+        <form method="POST">
+            <input type="hidden" name="verb" value="{{.Verb}}">
+            <input type="hidden" name="tense" value="{{.Tense}}">
+            <input type="hidden" name="pronoun" value="{{.Pronoun}}">
+            <input type="hidden" name="answer" value="{{.Answer}}">
+            <input type="text" name="input" id="answerInput" placeholder="Kirjoita vastaus..." autocomplete="off">
+            <button type="submit">Tarkista</button>
+        </form>
+        <div class="feedback"></div>
+        {{end}}
+    </div>
+
+    <script>
+        // Auto-focus the input on load
+        document.getElementById('answerInput')?.focus();
+    </script>
+</body>
+
+</html>
